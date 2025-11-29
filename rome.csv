@@ -1,0 +1,1585 @@
+"code_rome","code_ogr","libelle_rome"
+A1101,"6",Conducteur / Conductrice d'engins agricoles
+A1102,"403950",Conducteur / Conductrice d'engins d'exploitation forestière
+A1201,"7",Bûcheron / Bûcheronne
+A1202,"8",Agent / Agente d'entretien des espaces naturels
+A1203,"9",Agent / Agente d'entretien des espaces verts
+A1204,"10",Garde de parc naturel
+A1205,"11",Sylviculteur / Sylvicultrice
+A1206,"488634",Concepteur / Conceptrice paysagiste
+A1207,"488640",Chef / Cheffe d'équipe d'entretien d'espaces naturels
+A1208,"488734",Jardinier / Jardinière paysagiste
+A1209,"488755",Elagueur / Elagueuse
+A1210,"488859",Ouvrier forestier / Ouvrière forestière
+A1211,"489042",Chef / Cheffe d'équipe paysagiste
+A1212,"489058",Chef / Cheffe d'équipe de travaux forestiers
+A1213,"489160",Conducteur / Conductrice de travaux forestiers
+A1214,"510256",Patrouilleur modeleur / Patrouilleuse modeleuse VTT
+A1301,"12",Technicien / Technicienne de culture maraîchère
+A1302,"13",Technicien / Technicienne agricole
+A1303,"14",Ingénieur / Ingénieure d'études et de recherche agricoles
+A1304,"403951",Conseiller / Conseillère technique agricole
+A1305,"509634",Technicien / Technicienne des services vétérinaires
+A1306,"509636",Chargé / Chargée de mission biodiversité
+A1307,"509640",Ingénieur forestier / Ingénieure forestière
+A1308,"509691",Technicien / Technicienne de l'insémination animale
+A1309,"509754",Technicien / Technicienne d'élevage équin
+A1310,"510022",Technicien / Technicienne de production animale
+A1311,"510154",Technicien forestier / Technicienne forestière
+A1312,"510270",Directeur / Directrice environnement
+A1313,"510436",Chargé / Chargée de mission environnement
+A1401,"15",Cueilleur / Cueilleuse de fruits
+A1402,"16",Aide agricole en production végétale
+A1403,"17",Aide d'élevage agricole
+A1404,"18",Aquaculteur / Aquacultrice
+A1405,"19",Arboriculteur / Arboricultrice
+A1406,"20",Capitaine de pêche
+A1407,"21",Eleveur / Eleveuse de bovins
+A1408,"22",Eleveur / Eleveuse d'animaux sauvages
+A1409,"23",Aviculteur / Avicultrice
+A1410,"24",Eleveur / Eleveuse d'ovins
+A1411,"25",Eleveur / Eleveuse de porcins
+A1412,"26",Fromager-affineur / Fromagère-affineuse
+A1413,"27",Brasseur / Brasseuse de bière
+A1414,"28",Horticulteur / Horticultrice
+A1415,"29",Marin-pêcheur
+A1416,"30",Exploitant / Exploitante agricole
+A1417,"31",Saliculteur / Salicultrice
+A1418,"403953",Viticulteur / Viticultrice
+A1419,"403955",Ouvrier agricole polyvalent / Ouvrière agricole polyvalente
+A1420,"403956",Chef / Cheffe de culture responsable d'unité de production agricole
+A1421,"403957",Palefrenier soigneur / Palefrenière soigneuse
+A1422,"488334",Caviste de chai
+A1423,"488346",Œnologue
+A1424,"488709",Pisciculteur / Piscicultrice
+A1425,"488728",Ramendeur / Ramendeuse
+A1426,"488766",Educateur canin / Educatrice canine
+A1427,"488776",Goémonier / Goémonière
+A1428,"488903",Algoculteur / Algocultrice
+A1429,"488914",Apiculteur / Apicultrice
+A1430,"489025",Ouvrier / Ouvrière aquacole
+A1431,"489063",Ouvrier / Ouvrière piscicole
+A1432,"509364",Osiériculteur / Osiéricultrice
+A1433,"509394",Maraîcher / Maraîchère
+A1434,"510303",Tabaculteur / Tabacultrice
+A1435,"509407",Eleveur / Eleveuse d'animaux de compagnie
+A1436,"509512",Conducteur / Conductrice de travaux en entreprise de travaux agricoles
+A1437,"509516",Champignonniste
+A1438,"509530",Pêcheur / Pêcheuse à pied
+A1439,"509679",Eleveur / Eleveuse d'équidés
+A1440,"509694",Cultivateur urbain / Cultivatrice urbaine
+A1441,"509768",Pépiniériste
+A1442,"509813",Eleveur / Eleveuse de lapins
+A1443,"509917",Cidrier / Cidrière
+A1444,"510021",Aide agricole en production fruitière
+A1445,"510171",Pêcheur sous-marin / Pêcheuse sous-marine
+A1446,"510192",Maître / Maîtresse de chai
+A1447,"510265",Herboriste
+A1501,"32",Auxiliaire vétérinaire
+A1502,"33",Maréchal-ferrant / Maréchale-ferrante
+A1503,"34",Toiletteur / Toiletteuse d'animaux
+A1504,"35",Vétérinaire
+A1505,"488328",Animalier / Animalière de laboratoire
+A1506,"488759",Soigneur animalier / Soigneuse animalière
+A1507,"489019",Ostéopathe animalier / Ostéopathe animalière
+A1508,"509692",Dresseur animalier / Dresseuse animalière
+A1509,"509753",Comportementaliste animalier / Comportementaliste animalière
+A1510,"510027",Préparateur / Préparatrice d'équidés
+A1511,"510288",Gardien / Gardienne d'animaux
+B1101,"36",Artiste Plasticien / Plasticienne
+B1102,"488793",Mosaïste d'art
+B1103,"489159",Sculpteur / Sculptrice ornemaniste sur pierre
+B1201,"37",Céramiste
+B1301,"38",Etalagiste
+B1302,"39",Décorateur / Décoratrice d'objets d'art
+B1303,"40",Graveur / Graveuse d'art
+B1304,"488724",Artisan démonstrateur / Artisane démonstratrice
+B1401,"41",Vannier / Vannière
+B1402,"42",Relieur / Relieuse d'art
+B1403,"489064",Restaurateur / Restauratrice de livres anciens
+B1404,"510020",Canneur rempailleur / Canneuse rempailleuse
+B1501,"43",Facteur / Factrice d’instruments à clavier
+B1502,"509353",Facteur / Factrice d'instruments de musique anciens
+B1503,"509888",Facteur / Factrice d'instruments à vent
+B1504,"509773",Facteur / Factrice de percussions
+B1505,"509801",Luthier / Luthière
+B1601,"44",Métallier / Métallière d'art
+B1602,"45",Souffleur / Souffleuse de verre
+B1603,"46",Opérateur / Opératrice en bijouterie
+B1604,"47",Horloger / Horlogère
+B1605,"404957",Bijoutier / Bijoutière
+B1606,"404968",Joaillier / Joaillière
+B1607,"404969",Lapidaire / Diamantaire
+B1608,"404972",Orfèvre planeur / Orfèvre planeuse
+B1609,"404976",Responsable d'atelier en bijouterie ou joaillerie
+B1610,"404977",Sertisseur / Sertisseuse en bijouterie ou joaillerie
+B1611,"404978",Trieur / Trieuse de pierres et perles
+B1612,"404964",Concepteur / Conceptrice numérique en bijouterie joaillerie
+B1613,"488744",Orfèvre
+B1614,"489215",Monteur / Monteuse en orfèvrerie
+B1615,"490200",Orfèvre tourneur repousseur / Orfèvre tourneuse repousseuse
+B1616,"509929",Opérateur / Opératrice en horlogerie
+B1701,"48",Taxidermiste
+B1702,"509566",Technicien / Technicienne en ostéologie-moulage
+B1801,"49",Modiste
+B1802,"50",Maroquinier / Maroquinière
+B1803,"51",Couturier / Couturière
+B1804,"52",Brodeur / Brodeuse
+B1805,"53",Styliste
+B1806,"54",Tapissier / Tapissière d'ameublement
+B1807,"509564",Assistant / Assistante styliste
+B1808,"509644",Premier / Première d'atelier
+B1809,"510274",Sellier / Sellière
+B1810,"509777",Fourreur / Fourreuse
+B1811,"509904",Sellier-garnisseur / Sellière-garnisseuse
+B1812,"509946",Modéliste
+B1813,"510068",Tailleur / Tailleuse
+B1814,"510168",Directeur / Directrice de collection
+C1101,"55",Chargé / Chargée de produit en assurances
+C1102,"56",Conseiller / Conseillère en assurances
+C1103,"57",Courtier / Courtière en assurance
+C1104,"58",Responsable d'agence en assurances
+C1105,"59",Actuaire
+C1106,"60",Expert / Experte risques en assurances
+C1107,"61",Chargé / Chargée d'indemnisations en assurances
+C1108,"62",Responsable de département en assurances
+C1109,"63",Gestionnaire en assurances
+C1110,"64",Souscripteur / Souscriptrice en assurances
+C1111,"404510",Mandataire en assurance
+C1112,"404511",Agent général / Agente générale d'assurance
+C1113,"489048",Expert / Experte en assurances dommages automobile
+C1201,"65",Chargé / Chargée d'accueil en banque
+C1202,"66",Analyste de crédits et risques bancaires
+C1203,"67",Chargé / Chargée d'affaires bancaires entreprise
+C1204,"68",Gestionnaire de produits bancaires
+C1205,"69",Conseiller / Conseillère en gestion de patrimoine
+C1206,"70",Conseiller / Conseillère de clientèle bancaire
+C1207,"71",Directeur / Directrice d'agence bancaire
+C1208,"403084",Courtier / Courtière en banque
+C1209,"510029",Spécialiste de la vérification client
+C1301,"72",Trader
+C1302,"73",Gestionnaire des opérations sur les marchés financiers
+C1303,"74",Gérant / Gérante de portefeuille financier
+C1401,"75",Agent administratif / Agente administrative banque ou assurance
+C1501,"76",Gestionnaire de copropriété
+C1502,"77",Chargé / Chargée de gestion locative en immobilier
+C1503,"78",Chargé / Chargée d'affaires immobilières
+C1504,"79",Conseiller / Conseillère immobilier
+C1505,"403085",Responsable d'agence immobilière
+C1506,"489040",Responsable de projet immobilier
+D1101,"80",Boucher / Bouchère
+D1102,"81",Boulanger / Boulangère
+D1103,"82",Charcutier-traiteur / Charcutière-traiteuse
+D1104,"83",Pâtissier / Pâtissière
+D1105,"84",Poissonnier / Poissonnière
+D1106,"85",Vendeur / Vendeuse en épicerie
+D1107,"86",Vendeur / Vendeuse grossiste en produits frais
+D1108,"488597",Chef boulanger / Cheffe boulangère
+D1109,"489178",Chef boucher / Cheffe bouchère
+D1110,"509365",Vendeur ambulant / Vendeuse ambulante
+D1111,"509393",Chef / Cheffe de laboratoire en charcuterie
+D1112,"509520",Chef charcutier-traiteur / Cheffe charcutière-traiteuse
+D1113,"509568",Commercial itinérant / Commerciale itinérante en entreprise de commerce de gros
+D1114,"509790",Torréfacteur / Torréfactrice
+D1115,"510138",Chocolatier / Chocolatière
+D1116,"509905",Négociant / Négociante en bétail
+D1117,"510011",Chef pâtissier / Cheffe pâtissière
+D1118,"510047",Glacier / Glacière
+D1201,"87",Brocanteur / Brocanteuse
+D1202,"88",Coiffeur / Coiffeuse
+D1203,"89",Agent / Agente de soins en hydrothérapie
+D1204,"90",Agent technico-commercial / Agente technico-commerciale en location de véhicules
+D1205,"91",Employé / Employée de pressing
+D1206,"92",Cordonnier / Cordonnière
+D1207,"93",Retoucheur / Retoucheuse en habillement
+D1208,"94",Esthéticien / Esthéticienne
+D1209,"95",Fleuriste
+D1210,"96",Vendeur / Vendeuse en animalerie
+D1211,"97",Vendeur / Vendeuse d'articles de sport et loisirs
+D1212,"98",Vendeur / Vendeuse en équipement de la maison
+D1213,"99",Vendeur / Vendeuse grossiste en équipement du foyer
+D1214,"100",Vendeur / Vendeuse en prêt-à-porter
+D1215,"488614",Posticheur / Posticheuse
+D1216,"488617",Coiffeur barbier / Coiffeuse barbière
+D1217,"488784",Socio-coiffeur / Socio-coiffeuse
+D1218,"488919",Formateur coiffeur / Formatrice coiffeuse
+D1219,"489010",Vendeur / Vendeuse conseil en jardinerie
+D1220,"489036",Gérant / Gérante salon de coiffure
+D1221,"489056",Vendeur / Vendeuse de produits culturels et ludiques
+D1222,"489570",Masseur / Masseuse bien-être
+D1223,"509357",Conseiller / Conseillère de vente en pièces de rechange et accessoires de véhicules
+D1224,"509363",Chargé / Chargée de location d'engins et de matériel de chantier
+D1225,"509368",Responsable d'institut de beauté
+D1226,"509547",Nettoyeur / Nettoyeuse en cuir et peausserie
+D1227,"509554","Acheteur vendeur / Acheteuse vendeuse d'or, de métaux précieux"
+D1228,"510300",Employé / Employée de laverie automatique
+D1229,"509567",Responsable de pressing
+D1230,"509642",Responsable d'agence de location de matériel de transport
+D1231,"509646",Spa Praticien / Spa Praticienne
+D1232,"510282",Formateur / Formatrice en esthétisme
+D1233,"509703",Galeriste
+D1234,"509755",Chargé / Chargée de location de matériel de transport ou de loisirs
+D1235,"509761",Plagiste
+D1236,"509793",Repasseur / Repasseuse
+D1237,"509811",Socio-esthéticien / Socio-esthéticienne
+D1238,"510014",Chef / Cheffe d'agence de location de véhicules
+D1239,"510035",Perceur corporel / Perceuse corporelle
+D1240,"510077",Prothésiste ongulaire
+D1241,"510278",Conseiller / Conseillère en image personnelle
+D1242,"510203",Linger / Lingère
+D1243,"510277",Acheteur vendeur / Acheteuse vendeuse en dépôt-vente
+D1301,"101",Gérant / Gérante de magasin d'alimentation générale
+D1302,"488618",Responsable de boutique
+D1303,"509647",Responsable de station-service
+D1304,"510424",Responsable de station de lavage
+D1305,"510477",Responsable de magasin cycles
+D1401,"102",Assistant commercial / Assistante commerciale
+D1402,"103",Commercial / Commerciale grands comptes et entreprises
+D1403,"104",Conseiller commercial / Conseillère commerciale auprès des particuliers
+D1404,"105",Vendeur / Vendeuse automobile
+D1405,"106",Conseiller / Conseillère en information médicale
+D1406,"107",Directeur / Directrice des ventes
+D1407,"108",Technico-commercial / Technico-commerciale
+D1408,"109",Conseiller / Conseillère clientèle à distance
+D1409,"403074",Assistant / Assistante administration des ventes
+D1410,"403086",Attaché commercial / Attachée commerciale
+D1411,"488282",Responsable Efficacité Commerciale (SFE) en industrie pharmaceutique
+D1412,"488290",Délégué médical hospitalier / Déléguée médicale hospitalière
+D1413,"488301",Délégué / Déléguée pharmaceutique
+D1414,"488326",Responsable de zone internationale
+D1415,"488868",Chargé / Chargée de relation client
+D1416,"488879",Commercial / Commerciale auprès d'une clientèle d'entreprises
+D1417,"488908",Chef / Cheffe des ventes
+D1418,"488926",Négociant / Négociante en bois
+D1419,"488928",Courtier / Courtière en vins
+D1420,"489185",Cadre Technico-commercial / Technico-commerciale
+D1421,"509347",Conseiller commercial / Conseillère commerciale en véhicules industriels
+D1422,"509351",Chargé / Chargée de recouvrement de créances
+D1423,"512356",Conseiller / Conseillère produits en véhicules
+D1424,"509522",Conseiller vendeur / Conseillère vendeuse à domicile
+D1425,"509527",Conseiller vendeur / Conseillère vendeuse de véhicules poids lourds
+D1426,"509532",Vendeur / Vendeuse en véhicules de collection
+D1427,"509686",Conseiller vendeur / Conseillère vendeuse d'autocars
+D1428,"509695",Superviseur / Superviseuse technique et logistique en assistance de régulation médicale
+D1429,"510432",Assistant / Assistante import-export
+D1430,"509809",Conseiller vendeur / Conseillère vendeuse de véhicules de loisirs
+D1431,"510416",Assistant / Assistante achat
+D1432,"510410",Assistant / Assistante service clients
+D1433,"510405",Commercial / Commerciale export
+D1434,"510043",Conseiller commercial / Conseillère commerciale motocycles
+D1435,"510137",Responsable de plateau de centre d'appels
+D1436,"510165",Assistant / Assistante de régulation médicale (ARM)
+D1437,"510272",Gérant / Gérante de négoce automobile
+D1438,"510269",Assistant / Assistante e-commerce
+D1501,"110",Animateur / Animatrice des ventes
+D1502,"111",Chef / Cheffe de rayon produits alimentaires
+D1503,"112",Chef / Cheffe de rayon de produits non alimentaires
+D1504,"113",Directeur / Directrice de magasin de grande distribution
+D1505,"114",Hôte / Hôtesse de caisse
+D1506,"115",Merchandiser
+D1507,"116",Employé / Employée de rayon libre-service
+D1508,"117",Responsable de caisses
+D1509,"118",Responsable de département en grande distribution
+D1510,"403087",Chef / Cheffe de secteur magasin
+D1511,"509899",Opérateur / Opératrice de station service
+E1101,"119",Community manager
+E1102,"120",Ecrivain / Ecrivaine
+E1103,"121",Chargé / Chargée des relations publiques
+E1104,"122",Concepteur / Conceptrice de contenus multimedia
+E1105,"123",Editeur / Editrice
+E1106,"124",Journaliste
+E1107,"125",Chef / Cheffe de projet événementiel
+E1108,"126",Traducteur / Traductrice
+E1109,"403088",Directeur / Directrice de la communication
+E1110,"488749",Directeur / Directrice de la rédaction
+E1111,"488867",Game master
+E1112,"488921",Chargé / Chargée de communication
+E1113,"489052",Responsable e-commerce
+E1114,"509400",Reporter / Reportrice
+E1115,"509653",Chef / Cheffe de projet jeux vidéo
+E1116,"509668",Responsable d'édition en presse
+E1117,"509944",Wedding planner
+E1118,"510053",Présentateur / Présentatrice journaliste
+E1119,"510054",Concepteur rédacteur / Conceptrice rédactrice
+E1120,"510140",Chef / Cheffe de projets traduction
+E1121,"510143",Secrétaire de rédaction
+E1122,"510255",Transcripteur adaptateur / Transcriptrice adaptatrice
+E1123,"510285",Interprète
+E1124,"510598",Social media manager - Responsable des médias sociaux
+E1125,"510429",Concepteur / Conceptrice de jeux vidéo
+E1126,"510439",Auteur / Auteure de jeux de société
+E1127,"510441",Brand content manager
+E1128,"510443",Directeur / Directrice de création
+E1129,"510449",Directeur / Directrice artistique communication
+E1201,"127",Photographe
+E1202,"128",Opérateur / Opératrice de laboratoire cinématographique
+E1203,"129",Technicien / Technicienne de laboratoire photographique
+E1204,"130",Technicien / Technicienne d’exploitation cinématographique
+E1205,"131",Designer graphique
+E1206,"404036",UX - UI Designer
+E1207,"488782",Motion designer
+E1208,"509545",Chef / Cheffe de studio de photographie
+E1209,"509664",Responsable de laboratoire photographique
+E1210,"510604",Web designer
+E1211,"510016",Dessinateur-illustrateur / Dessinatrice-illustratrice
+E1301,"132",Conducteur / Conductrice de machines d'impression
+E1302,"133",Conducteur / Conductrice de machines de façonnage routage
+E1303,"134",Chef / Cheffe de fabrication en industrie graphique
+E1304,"135",Agent / Agente de façonnage et routage
+E1305,"136",Préparateur-correcteur / Préparatrice-correctrice en industrie graphique
+E1306,"137",Opérateur / Opératrice de prépresse
+E1307,"138",Reprographe
+E1308,"139",Technicien / Technicienne des industries graphiques
+E1309,"509508",Responsable d'atelier de façonnage routage
+E1310,"509894",Contrôleur / Contrôleuse qualité en industrie graphique
+E1311,"510174",Régleur / Régleuse de machines de façonnage routage
+E1312,"510250",Lecteur-correcteur / Lectrice-correctrice
+E1313,"510254",Agent / Agente d'encadrement en industrie graphique
+E1314,"510302",Conducteur / Conductrice de machines à pelliculer
+E1315,"510313",Conducteur / Conductrice de machines de reliure automatique
+E1401,"140",Chef / Cheffe de publicité
+E1402,"141",Média planneur / Média planneuse
+E1403,"509504",Consultant / Consultante média
+E1404,"509665",Assistant / Assistante en publicité
+E1405,"509820",Référenceur / Référenceuse web
+E1406,"510209",Influenceur / Influenceuse web
+E1407,"510298",Traffic manager
+E1408,"512360",Responsable trafic création
+E1409,"510412",Acheteur / Acheteuse média
+E1410,"510420",Responsable programmatique
+E1411,"510426",Chargé / Chargée de développement du patrimoine publicitaire
+E1412,"510444",Directeur / Directrice média
+E1413,"512357",Chef / Cheffe de projet publicitaire
+E1414,"512358",Chargé / Chargée de diffusion publicitaire
+E1415,"512359",Directeur / Directrice de la production publicitaire
+F1101,"142",Architecte du bâtiment
+F1102,"143",Architecte d'intérieur
+F1103,"144",Diagnostiqueur / Diagnostiqueuse immobilier
+F1104,"145",Dessinateur-projeteur / Dessinatrice-projeteuse de la construction
+F1105,"146",Géologue
+F1106,"147",Ingénieur / Ingénieure d'études de prix BTP
+F1107,"148",Géomètre-topographe
+F1108,"149",Métreur / Métreuse de la construction
+F1109,"403075",Assistant / Assistante géomètre
+F1110,"403079",Dessinateur / Dessinatrice enveloppe du bâtiment
+F1111,"403089",Ingénieur / Ingénieure génie civil
+F1112,"403090",Ingénieur / Ingénieure calcul et structure
+F1113,"404537",Responsable énergie
+F1114,"404538",Conseiller / Conseillère en rénovation énergétique
+F1115,"488578",Vulcanologue
+F1116,"488589",Ingénieur / Ingénieure démantèlement nucléaire
+F1117,"488590",Ingénieur / Ingénieure d'étude CVC
+F1118,"488615",Sismologue
+F1119,"488621",Pédologue
+F1120,"488623",Economiste de la construction
+F1121,"488637",Architecte du patrimoine national
+F1122,"488719",Ingénieur / Ingénieure Chantier nucléaire
+F1123,"489200",Glaciologue
+F1124,"488897",Hydrologue
+F1125,"489011",BIM Manager
+F1126,"489182",Assistant / Assistante maîtrise d'œuvre en architecture
+F1127,"509406",Architecte-urbaniste
+F1128,"509414",Géotechnicien / Géotechnicienne
+F1129,"509417",Ingénieur / Ingénieure réservoir
+F1130,"509494",Contrôleur / Contrôleuse technique de la construction (CTC)
+F1131,"509496",Géomètre du cadastre
+F1132,"509539",Acousticien / Acousticienne du bâtiment
+F1133,"510458",Chargé / Chargée d'affaires foncières
+F1134,"509808",Domoticien / Domoticienne
+F1135,"509907",Chargé / Chargée d'affaires BTP
+F1136,"509938",Chef / Cheffe de projet éolien
+F1137,"510056",Chargé / Chargée de méthodes BTP
+F1138,"510153",Géothermicien / Géothermicienne
+F1139,"510159",Décorateur / Décoratrice d'intérieur
+F1140,"510176",Concepteur / Conceptrice agencement
+F1141,"510177",Ingénieur / Ingénieure études conception électrique
+F1142,"510427",Océanographe
+F1143,"510268",Géophysicien / Géophysicienne
+F1201,"150",Conducteur / Conductrice de travaux du bâtiment
+F1202,"151",Chef / Cheffe de chantier bâtiment
+F1203,"152",Responsable d'exploitation de gisements et de carrières
+F1204,"153",Animateur / Animatrice QSE - Qualité Sécurité Environnement BTP
+F1205,"403076",Directeur / Directrice de travaux du bâtiment
+F1206,"489220",Chef / Cheffe d'équipe bâtiment
+F1207,"490402",Chef / Cheffe d'équipe travaux publics
+F1208,"509797",Conducteur / Conductrice de travaux publics
+F1209,"510010",Chef / Cheffe de chantier travaux publics
+F1210,"510445",Directeur / Directrice de travaux TP - Travaux Publics
+F1301,"154",Grutier / Grutière
+F1302,"155",Conducteur / Conductrice d'engins de chantier
+F1303,"510057",Conducteur / Conductrice d'engin de damage
+F1401,"156",Foreur / Foreuse
+F1402,"157",Extracteur / Extractrice de roches
+F1501,"158",Monteur / Monteuse de structures bois
+F1502,"159",Monteur / Monteuse en structures métalliques
+F1503,"160",Charpentier / Charpentière
+F1504,"488871",Charpentier / Charpentière de marine
+F1505,"510636",Echafaudeur / Echafaudeuse
+F1601,"161",Plâtrier / Plâtrière
+F1602,"162",Electricien / Electricienne du bâtiment
+F1603,"163",Plombier / Plombière sanitaire
+F1604,"164",Plaquiste
+F1605,"165",Monteur / Monteuse de réseaux électriques
+F1606,"166",Peintre en bâtiment
+F1607,"167",Menuisier / Menuisière aluminium
+F1608,"168",Carreleur / Carreleuse
+F1609,"169",Solier / Solière
+F1610,"170","Installateur mainteneur / Installatrice mainteneuse en systèmes solaires, thermiques et photovoltaïques"
+F1611,"171",Façadier / Façadière itéiste
+F1612,"172",Tailleur / Tailleuse de pierre
+F1613,"173",Etancheur / Etancheuse
+F1614,"403073",Poseur / Poseuse en fermetures de bâtiment
+F1615,"403080",Poseur / Poseuse de cloisons démontables et mobiles
+F1616,"403081",Poseur / Poseuse de menuiseries extérieures
+F1617,"403082",Poseur / Poseuse de véranda
+F1618,"403083",Poseur / Poseuse de façade vitrée
+F1619,"404037",Couvreur / Couvreuse
+F1620,"404539",Installateur / Installatrice chauffage et climatisation
+F1621,"488572",Ramoneur / Ramoneuse
+F1622,"488912",Monteur / Monteuse en éclairage public
+F1623,"489030",Monteur / Monteuse installation réseaux mobiles
+F1624,"489084",Staffeur Stuqueur / Staffeuse Stuqueuse
+F1625,"489189",Monteur / Monteuse en agencement
+F1626,"509352",Calorifugeur / Calorifugeuse
+F1627,"509523",Poseur / Poseuse de compteurs
+F1628,"509685",Installateur / Installatrice de bornes de recharges électriques
+F1629,"509765",Electricien / Electricienne ferroviaire
+F1630,"510145",Technicien / Technicienne de désenfumage
+F1701,"174",Coffreur / Coffreuse
+F1702,"175",Ouvrier / Ouvrière en voiries
+F1703,"176",Maçon / Maçonne
+F1704,"177",Manœuvre bâtiment
+F1705,"178",Poseur / Poseuse de canalisations
+F1706,"179",Armaturier / Armaturière de l'industrie du béton
+F1707,"403952",Maçon / Maçonne du paysage
+F1708,"403954",Installateur-poseur / Installatrice-poseuse de piscines préfabriquées
+F1709,"404038",Démolisseur / Démolisseuse
+F1710,"488283",Magasinier / Magasinière en négoce des matériaux de construction
+F1711,"509369",Poseur / Poseuse de voies ferrées
+G1101,"180",Agent / Agente d'accueil touristique
+G1102,"181",Chargé / Chargée de promotion touristique
+G1103,"488584",Directeur / Directrice de parc régional
+G1104,"488765",Consultant / Consultante tourisme
+G1105,"488774",Directeur / Directrice d'office du tourisme
+G1106,"488794",Animateur / Animatrice du patrimoine
+G1107,"488895",Hôte / Hôtesse d'accueil et d'animation de croisière
+G1108,"489216",Directeur / Directrice de pays d'accueil touristique
+G1201,"182",Guide-accompagnateur / Guide-accompagnatrice
+G1202,"183",Animateur / Animatrice d'atelier artistique ou ludique
+G1203,"184",Animateur / Animatrice jeunesse
+G1204,"185",Educateur sportif / Educatrice sportive
+G1205,"186",Opérateur / Opératrice d'attraction
+G1206,"187",Croupier / Croupière
+G1207,"403072",Surveillant / Surveillante de baignade
+G1208,"403077",Entraîneur / Entraîneure de sport professionnel et de haut niveau
+G1209,"403078",Animateur / Animatrice de loisirs sportifs
+G1210,"403958",Enseignant / Enseignante d'équitation
+G1211,"404961",Analyste de la performance sportive
+G1212,"404962",Animateur socio-sportif / Animatrice socio-sportive
+G1213,"404963",Chargé / Chargée de développement d'activités sportives
+G1214,"404966",Directeur sportif / Directrice sportive
+G1215,"404967",Educateur sportif / Educatrice sportive Santé
+G1216,"404970",Moniteur / Monitrice de sport nature
+G1217,"404971",Moniteur / Monitrice en salle de sport
+G1218,"404975",Préparateur / Préparatrice physique
+G1219,"488277",Recruteur sportif / Recruteuse sportive
+G1220,"488288",Educateur sportif / Educatrice sportive spécialisé(e) en activités physiques et sportives adaptées
+G1221,"488598",Responsable des attractions
+G1222,"488606",Guide-conférencier / Guide-conférencière
+G1223,"489193",Animateur / Animatrice en site de divertissement
+G1224,"488616",Maître-nageur sauveteur / Maître-nageuse sauveteuse
+G1225,"488633",Ouvreur / Ouvreuse de salle de spectacles
+G1226,"488733",Chef / Cheffe de bassin
+G1227,"488752",Guide-interprète
+G1228,"488779",Guide de haute montagne
+G1229,"489165",Guide-accompagnateur / Guide-accompagnatrice de pêche
+G1230,"488860",Guide de tourisme équestre
+G1231,"489016",Accompagnateur / Accompagnatrice en écotourisme
+G1232,"489046",Opérateur / Opératrice de parcours acrobatique dans les arbres
+G1233,"489050",Préparateur mental / Préparatrice mentale du sport
+G1234,"489070",Musher guide de randonnée en traîneau
+G1235,"509374",Animateur / Animatrice de séjour de vacances
+G1236,"509387",Animateur / Animatrice de club de vacances
+G1237,"509666",Directeur / Directrice d'accueil de loisirs sans hébergement
+G1238,"509760",Animateur / Animatrice d'atelier multimédia
+G1239,"509764",Responsable d'animation
+G1240,"510150",Animateur / Animatrice nature environnement
+G1241,"510396",Directeur / Directrice de centre de séjour de vacances
+G1242,"512361",Médiateur / Médiatrice scientifique
+G1301,"188",Concepteur / Conceptrice de produits touristiques
+G1302,"189",Yield manager
+G1303,"190",Conseiller / Conseillère en voyages
+G1304,"509362",Responsable d'agence de voyages
+G1305,"509883",Assistant / Assistante chef de produit tourisme
+G1306,"509947",Billettiste voyages
+G1307,"510182",Responsable de ventes de voyages en plateau d'affaires
+G1308,"510640",Chef / Cheffe de produit touristique
+G1401,"191",Adjoint / Adjointe de direction en hôtellerie-restauration
+G1402,"192",Directeur / Directrice d'établissement en hôtellerie-restauration
+G1403,"193",Directeur / Directrice de structure touristique
+G1404,"194",Responsable d'établissement de restauration collective
+G1405,"404965",Directeur / Directrice de structure sportive
+G1406,"488348",Directeur / Directrice d'équipement sportif
+G1407,"488600",Econome en hôtellerie-restauration
+G1408,"488762",Directeur / Directrice de structure d'hébergement touristique
+G1409,"488899",Manager en restauration rapide
+G1410,"489049",Directeur / Directrice de la restauration
+G1411,"489171",Directeur / Directrice d'hôtel
+G1412,"489204",Directeur / Directrice de parc à thème
+G1413,"489205",Directeur / Directrice de restaurant
+G1414,"489568",Directeur / Directrice d'exploitation de site de divertissement
+G1415,"509639",Gérant / Gérante de gîte et chambres d'hôtes
+G1416,"509931",Directeur / Directrice d'hôtellerie de plein air
+G1501,"195",Employé / Employée d'étage
+G1502,"196",Employé / Employée d'hôtel
+G1503,"197",Gouvernant / Gouvernante d'hôtel
+G1601,"198",Chef / Cheffe de cuisine
+G1602,"199",Commis / Commise de cuisine
+G1603,"200",Equipier polyvalent / Equipière polyvalente de restauration rapide
+G1604,"201",Pizzaïolo / Pizzaïola
+G1605,"202",Plongeur officier / Plongeuse officière de cuisine
+G1606,"404039",Cuisinier / Cuisinière de collectivité
+G1607,"404040",Employé / Employée de restauration collective
+G1608,"404540",Ecailler / Ecaillère
+G1609,"488568",Cuisinier / Cuisinière
+G1610,"488580",Pâtissier / Pâtissière de restaurant
+G1611,"489173",Steward / Hôtesse de train
+G1612,"509392",Crêpier / Crêpière
+G1613,"510306",Restaurateur ambulant / Restauratrice ambulante
+G1701,"203",Concierge d'hôtel
+G1702,"204",Bagagiste en établissement hôtelier
+G1703,"205",Réceptionniste
+G1704,"488579",Agent / Agente de réservation en hôtellerie
+G1705,"488585",Chef / Cheffe concierge d'hôtel
+G1706,"488620",Chef / Cheffe de réception en hôtellerie
+G1707,"488891",Responsable de vestiaire
+G1708,"489018",Voiturier / Voiturière
+G1801,"206",Barman / Barmaid
+G1802,"207",Maître / Maîtresse d'hôtel
+G1803,"208",Serveur / Serveuse en restauration
+G1804,"209",Sommelier / Sommelière
+G1805,"489037","Gérant / Gérante de café, bar-brasserie"
+G1806,"488898",Chef sommelier / Cheffe sommelière
+G1807,"488582",Gérant / Gérante de bar-tabac
+G1808,"488635",Chef barman / Cheffe barmaid
+G1809,"488718",Barista
+G1810,"488861",Chef / Cheffe de rang
+H1101,"210",Ingénieur / Ingénieure support technique
+H1102,"211",Ingénieur / Ingénieure d'affaires en industrie
+H1103,"488302",Responsable d'affaires en industrie pharmaceutique
+H1104,"488321",Directeur / Directrice des affaires médicales pharmaceutiques
+H1105,"488339",Chef de projets santé / Cheffe de projets santé
+H1106,"488627",Responsable support technique clients
+H1107,"489015",Directeur / Directrice assistance technique
+H1108,"489029",Technicien / Technicienne support client en industrie
+H1201,"212",Technicien / Technicienne coloriste en industrie
+H1202,"213",Dessinateur / Dessinatrice en électricité-électronique
+H1203,"214",Dessinateur-projeteur / Dessinatrice-projeteuse en mécanique
+H1204,"215",Designer
+H1205,"216",Modéliste industriel / Modéliste industrielle
+H1206,"217",Ingénieur / Ingénieure R&D en industrie
+H1207,"218",Rédacteur / Rédactrice technique
+H1208,"219",Automaticien / Automaticienne en bureau d'études
+H1209,"220",Technicien / Technicienne en électricité et électronique études et développement
+H1210,"221",Technicien / Technicienne R&D
+H1211,"404541",Attaché / Attachée de recherche clinique (ARC)
+H1212,"488271",Ingénieur / Ingénieure brevet en industrie
+H1213,"488291",Responsable du développement clinique en industrie pharmaceutique
+H1214,"488299",Agent / Agente de laboratoire de recherche industrielle
+H1215,"488303","Bioinformaticien / Bioinformaticienne en études, recherche et développement"
+H1216,"488308",Responsable des études épidémiologiques
+H1217,"488313",Technicien / Technicienne formulation en industrie pharmaceutique
+H1218,"488316",Responsable de projet recherche et développement
+H1219,"488319",Responsable opérationnel / Responsable opérationnelle des études cliniques en industrie pharmaceutique
+H1220,"488322",Responsable formulation en industrie pharmaceutique
+H1221,"488335",Responsable des partenariats de recherche en industrie pharmaceutique
+H1222,"488347",Responsable médical / Responsable médicale des études cliniques en industrie pharmaceutique
+H1223,"488351",Coordinateur / Coordinatrice d'études cliniques en industrie pharmaceutique
+H1224,"488566",Technicien / Technicienne de laboratoire de recherche-développement
+H1225,"489219",Ingénieur / Ingénieure développement nucléaire
+H1226,"510309",Rédacteur médical / Rédactrice médicale en industrie pharmaceutique
+H1227,"509358",Maquettiste en électronique
+H1228,"510276",Projeteur / Projeteuse chef de groupe en électricité-électronique
+H1229,"509401",Roughman / Roughwoman en design
+H1230,"509402",Ingénieur / Ingénieure essais vérification et validation (V&V) en milieu nucléaire
+H1231,"509413",Patronnier / Patronnière en chaussures
+H1232,"510188",Technicien / Technicienne d'études en industrie des matériaux souples
+H1233,"510135",Chef de projet / Cheffe de projet design
+H1234,"509699",Responsable de service de rédaction technique
+H1235,"509769",Technicien / Technicienne en conception industrielle en mécanique
+H1236,"509817",Dessinateur-projeteur / Dessinatrice-projeteuse en électricité-électronique
+H1237,"510075",Ingénieur / Ingénieure énergies renouvelables
+H1238,"509906",Chef / Cheffe de projet conception industrielle en mécanique
+H1239,"510028","Technicien / Technicienne en conception électronique, électrique"
+H1240,"509936",Agent / Agente de finissage couleurs et effets cuirs et peaux
+H1241,"513844",Architecte système hydrogène
+H1301,"222",Inspecteur / Inspectrice de conformité
+H1302,"223","Ingénieur / Ingénieure Hygiène, Sécurité et Environnement en industrie (HSE)"
+H1303,"224","Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel (HSE)"
+H1304,"488285",Responsable environnement en industrie
+H1305,"488596",Vérificateur / Vérificatrice de conformité industrielle
+H1306,"488619",Ingénieur / Ingénieure sûreté en industrie nucléaire
+H1307,"488751",Responsable de la conformité industrielle
+H1308,"489181",Animateur / Animatrice en Hygiène Sécurité Environnement (HSE)
+H1309,"489183",Technicien / Technicienne en radioprotection
+H1401,"225",Responsable ordonnancement-lancement-planification en industrie
+H1402,"226",Ingénieur / Ingénieure méthodes et process
+H1403,"227",Gestionnaire de flux de production
+H1404,"228",Technicien / Technicienne méthodes
+H1405,"488297",Responsable supply chain en industrie
+H1406,"488331",Ingénieur / Ingénieure supply chain en industrie
+H1501,"229",Responsable de laboratoire d'analyse industrielle
+H1502,"230",Responsable qualité en industrie
+H1503,"231",Technicien / Technicienne de laboratoire d'analyse industrielle
+H1504,"232",Contrôleur / Contrôleuse technique en électricité-électronique
+H1505,"233",Nez
+H1506,"234",Contrôleur / Contrôleuse technique en métallurgie
+H1507,"404542",Chargé / Chargée des affaires réglementaires
+H1508,"488278",Assureur / Assureuse qualité industrie
+H1509,"488284",Responsable des affaires règlementaires en industrie pharmaceutique
+H1510,"488296",Technicien / Technicienne de laboratoire de contrôle en industrie pharmaceutique
+H1511,"488309",Chargé / Chargée de validation-qualification en industrie pharmaceutique
+H1512,"488312",Directeur / Directrice de zone en industrie pharmaceutique
+H1513,"488314",Responsable de pharmacovigilance en industrie pharmaceutique
+H1514,"488330",Chargé / Chargée de pharmacovigilance en industrie pharmaceutique
+H1515,"488336",Auditeur / Auditrice qualité en industrie
+H1516,"488341",Expert / Experte métrologue
+H1517,"488343",Responsable de laboratoire de contrôle en industrie pharmaceutique
+H1518,"488344",Responsable assurance qualité en industrie
+H1519,"488352",Responsable éthique-déontologie-conformité en industrie pharmaceutique
+H1520,"488353",Ingénieur / Ingénieure assurance qualité en industrie
+H1521,"488565",Technicien / Technicienne de validation-qualification
+H1522,"488632",Technicien / Technicienne en contrôles et essais non destructifs (CND END)
+H1523,"509345",Responsable Qualité Sécurité Environnement -QSE- en industrie
+H1524,"509526",Qualiticien / Qualiticienne en industrie
+H1525,"509528",Biologiste de contrôle fabrication en industrie
+H1526,"509637",Technicien / Technicienne qualité-surveillance d'installations industrielles
+H1527,"509670",Ingénieur / Ingénieure qualité en industrie
+H1528,"509786",Technicien / Technicienne qualité en industrie
+H1529,"509879",Chargé / Chargée de matériovigilance
+H1530,"510069",Technicien / Technicienne de la qualité de l'eau
+H1531,"510271",Opérateur / Opératrice de laboratoire d'analyse industrielle
+H1532,"510305",Responsable de contrôle non destructif en industrie
+H1533,"510457",Ingénieur / Ingénieure CND END
+H1534,"510637",Ingénieur / Ingénieure d'analyse industrielle
+H2101,"235",Ouvrier / Ouvrière d'abattoir
+H2102,"236",Conducteur / Conductrice de ligne en industrie alimentaire
+H2103,"403959",Opérateur / Opératrice de transformation des viandes
+H2104,"488711",Fromager industriel / Fromagère industrielle
+H2105,"509557",Agent / Agente de production en industrie alimentaire
+H2201,"237",Assembleur / Assembleuse d'ouvrages en bois
+H2202,"238",Conducteur / Conductrice de machines à bois
+H2203,"239",Machiniste en fabrications de panneaux de bois
+H2204,"240",Contremaître / Contremaîtresse en menuiserie
+H2205,"241",Ouvrier / Ouvrière de scierie
+H2206,"242",Menuisier / Menuisière
+H2207,"243",Ebéniste
+H2208,"244",Façonnier / Façonnière d'ouvrages décoratifs en bois et matériaux associés
+H2209,"245",Dessinateur / Dessinatrice de structures en bois
+H2210,"489038",Tonnelier / Tonnelière
+H2211,"488887",Opérateur / Opératrice de sciage bois
+H2212,"509499",Technicien / Technicienne de fabrication en industrie du bois
+H2213,"509693",Menuisier / Menuisière en construction nautique
+H2214,"513850",Mérandier / Mérandière
+H2215,"513853",Caissier / Caissière de l'emballage industriel
+H2301,"246",Conducteur / Conductrice de ligne en industrie chimique
+H2302,"488276",Conducteur / Conductrice de procédé de fabrication en industrie pharmaceutique
+H2303,"488318",Opérateur / Opératrice de fabrication en industrie pharmaceutique
+H2304,"510207",Opérateur / Opératrice de fabrication des industries chimiques
+H2401,"247","Opérateur / Opératrice de fabrication industrie des cuirs, peaux et matériaux associés"
+H2402,"248",Couturier industriel / Couturière industrielle de l'habillement
+H2403,"249",Conducteur / Conductrice de machines de fabrication de produits textiles
+H2404,"250",Conducteur / Conductrice de machine de production et transformation des fils
+H2405,"251",Conducteur / Conductrice de ligne de production de textiles non-tissés
+H2406,"252",Conducteur / Conductrice de machines de traitement textile
+H2407,"253",Opérateur / Opératrice sur machine de transformation et de finition des cuirs et peaux
+H2408,"254",Imprimeur / Imprimeuse textile
+H2409,"255",Coupeur / Coupeuse en industrie textile et matériaux souples
+H2410,"256",Opérateur / Opératrice de finition en industrie du textile
+H2411,"257",Monteur / Monteuse prototypiste cuir et matériaux souples
+H2412,"258",Patronnier / Patronnière
+H2413,"259",Opérateur / Opératrice de préparation en industrie textile
+H2414,"260","Opérateur / Opératrice de préparation ou de finition sur articles de cuirs, peaux ou matériaux associés"
+H2415,"261",Contrôleur / Contrôleuse en industrie textile
+H2416,"488630",Gainier industriel / Gainière industrielle
+H2417,"488714",Chef / Cheffe de rame textile
+H2418,"488720",Opérateur / Opératrice sur machine de production et transformation des fils
+H2419,"488740",Passementier / Passementière en industrie textile
+H2420,"488760",Repasseur / Repasseuse en industrie textile et de l'habillement
+H2421,"488761",Opérateur / Opératrice de fabrication de produits textiles
+H2422,"488780",Tapissier industriel / Tapissière industrielle
+H2423,"488856",Mécanicien / Mécanicienne industrie textile et de l'habillement
+H2424,"488875",Chef / Cheffe de ligne chromo en industrie textile
+H2425,"488901",Fileur / Fileuse en industrie textile
+H2426,"488932",Chef / Cheffe d'équipe en atelier de coupe
+H2427,"489060",Effileur / Effileuse en dentelles
+H2501,"262",Chef / Cheffe d'atelier production électricité-électronique
+H2502,"263",Responsable d'unité de production industrielle
+H2503,"264",Responsable d'îlot de production
+H2504,"265",Chef / Cheffe d'équipe en industrie
+H2505,"266",Chef / Cheffe d'équipe et d'atelier textile
+H2506,"488286",Chef / Cheffe de production en industrie agroalimentaire
+H2507,"488315",Responsable de ligne de production industrielle
+H2508,"488862",Ingénieur / Ingénieure exploitation nucléaire
+H2509,"509384",Ingénieur / Ingénieure de fonderie ou de forge
+H2510,"509937",Directeur / Directrice de production industrielle
+H2601,"267",Bobinier / Bobinière en électricité
+H2602,"268",Câbleur / Câbleuse d'armoires
+H2603,"269",Opérateur / Opératrice sur machines automatisées en production électrique
+H2604,"270",Assembleur / Assembleuse en produits électriques et électroniques
+H2605,"271",Monteur-câbleur / Monteuse-câbleuse en électronique
+H2606,"488763",Monteur-bobinier / Monteuse-bobinière en électricité
+H2607,"488920",Chef / Cheffe d'atelier de bobinage électrique
+H2608,"489222",Bobinier / Bobinière en matériels électroniques
+H2701,"272",Technicien / Technicienne énergie
+H2702,"488305",Conducteur / Conductrice de bloc nucléaire
+H2703,"488631",Technicien / Technicienne de maintenance de batteries de véhicules électriques
+H2704,"488775",Technicien démonteur / Technicienne démonteuse de batteries de véhicules électriques
+H2705,"489071",Pilote de ligne de production de composants et de cellules pour batteries de véhicules électriques
+H2706,"510173",Opérateur / Opératrice de production en énergie nucléaire
+H2707,"509386",Technicien / Technicienne essais en industrie nucléaire
+H2708,"509525",Technicien / Technicienne d'exploitation nucléaire
+H2709,"509683",Conducteur / Conductrice d'installation d'incinération
+H2710,"513846",Responsable technique d'installation hydrogène
+H2801,"273",Agent / Agente de fabrication du verre
+H2802,"274",Opérateur / Opératrice de fabrication en matériaux de construction
+H2803,"275",Opérateur / Opératrice en Industrie Céramique
+H2804,"276",Pilote de centrale de béton
+H2805,"277",Technicien / Technicienne de l'industrie du verre
+H2901,"278",Ajusteur-monteur / Ajusteuse-monteuse
+H2902,"279",Chaudronnier / Chaudronnière
+H2903,"280",Tourneur-fraiseur / Tourneuse-fraiseuse
+H2904,"281",Forgeron industriel / Forgeronne industrielle
+H2905,"282",Cisailleur / Cisailleuse en métallurgie
+H2906,"283",Opérateur / Opératrice en fabrication mécanique
+H2907,"284",Fondeur / Fondeuse en métallurgie
+H2908,"285",Modeleur / Modeleuse
+H2909,"286",Assembleur monteur / Assembleuse monteuse
+H2910,"287",Mouleur noyauteur / Mouleuse noyauteuse
+H2911,"288",Métallier / Métallière
+H2912,"289",Régleur / Régleuse d'équipements industriels
+H2913,"290",Soudeur / Soudeuse
+H2914,"291",Tuyauteur / Tuyauteuse
+H2915,"489024",Chef soudeur / Cheffe soudeuse
+H2916,"489047",Soudeur / Soudeuse Tungsten Inert Gas -TIG-
+H2917,"489194",Soudeur / Soudeuse MIG MAG
+H2918,"510025",Affûteur / Affûteuse d'outillage industriel
+H3101,"292",Conducteur / Conductrice de machines à papier ou carton
+H3102,"293",Conducteur / Conductrice d'installation de pâte à papier
+H3103,"509815",Opérateur / Opératrice de production de pâte à papier
+H3104,"510076",Opérateur / Opératrice de production de papier carton
+H3105,"510178",Technicien / Technicienne de production en industrie papetière
+H3201,"294",Plasturgiste
+H3202,"295",Monteur régleur / Monteuse régleuse en plasturgie
+H3203,"296",Mouleur-stratifieur / Mouleuse-stratifieuse
+H3301,"297",Conducteur / Conductrice de ligne de conditionnement
+H3302,"298",Agent / Agente de conditionnement
+H3303,"299",Cuisinier / Cuisinière en industrie chimique
+H3304,"488913",Chef / Cheffe de ligne conditionnement
+H3305,"489083",Conducteur / Conductrice de machines de conditionnement
+H3401,"300",Opérateur / Opératrice de traitement d'abrasion de surface
+H3402,"301",Agent / Agente de traitement de surface
+H3403,"302",Opérateur / Opératrice de traitement thermique
+H3404,"303",Peintre industriel / Peintre industrielle
+H3405,"404973",Polisseur / Polisseuse en bijouterie ou joaillerie ou orfèvrerie
+H3406,"404974",Opérateur / Opératrice en polissage de bijouterie ou d'orfèvrerie
+H3407,"490329",Metteur au bain / Metteuse au bain argenture - dorure en orfèvrerie
+H3408,"490351",Metteur au point polisseur / Metteuse au point polisseuse sur matrice en orfèvrerie
+I1101,"304",Directeur / Directrice de la gestion technique des bâtiments
+I1102,"305",Ingénieur / Ingénieure de maintenance industrielle
+I1103,"306","Chef / Cheffe d'atelier après-vente des véhicules (auto, moto, VTR)"
+I1104,"488902",Ingénieur / Ingénieure infrastructures télécoms réseaux mobiles
+I1105,"488930",Responsable de maintenance et d'exploitation
+I1106,"489085",Responsable de maintenance réseaux des territoires connectés
+I1107,"488788",Responsable d'atelier de mécanique parcs et jardins
+I1108,"509502",Chef / Cheffe d'atelier engins de chantier
+I1109,"509663",Responsable de parc de véhicules
+I1110,"509779",Chef / Cheffe d'atelier machines agricoles
+I1111,"509795",Responsable technique après-vente des véhicules
+I1112,"510299",Chef / Cheffe d'atelier engins de levage et de manutention
+I1113,"510409",Chef / Cheffe d'atelier en démontage recyclage de VHU
+I1114,"510425",Responsable de centre de contrôle technique de véhicules
+I1115,"510435",Responsable de site(s) de vente et de réparation cycles
+I1116,"510448",Responsable d'exploitation de stationnement
+I1117,"510460",Chef / Cheffe d'atelier après-vente cycles
+I1118,"510467",Responsable de site SMAVA (service multimarques de l'après-vente automobile)
+I1119,"510469",Responsable de centre de démontage recyclage des VHU
+I1201,"307",Agent / Agente technique d'affichage
+I1202,"308",Agent / Agente d'exploitation de la voirie
+I1203,"309",Agent / Agente d'entretien du bâtiment
+I1204,"488571",Agent / Agente d'entretien des piscines
+I1205,"488628",Installateur vérificateur / Installatrice vérificatrice d'extincteurs
+I1206,"510024",Chef / Cheffe d'équipe en mobilier urbain et publicitaire
+I1207,"510070",Agent / Agente de maintenance de mobilier urbain et publicitaire
+I1208,"510297",Patrouilleur autoroutier / Patrouilleuse autoroutière
+I1209,"510452",Technicien / Technicienne d'installation de panneau digital
+I1301,"310",Ascensoriste
+I1302,"311",Technicien / Technicienne de maintenance d'installations automatisées
+I1303,"312",Technicien / Technicienne de maintenance de distributeurs automatiques
+I1304,"313",Technicien / Technicienne de maintenance industrielle
+I1305,"314",Technicien / Technicienne installation et maintenance électronique
+I1306,"315",Frigoriste
+I1307,"316",Antenniste
+I1308,"317",Chauffagiste
+I1309,"318",Electricien / Electricienne de maintenance
+I1310,"319",Mécanicien / Mécanicienne de maintenance industrielle
+I1311,"488292",Technicien / Technicienne installation réseaux câblés fibre optique
+I1312,"488332",Technicien / Technicienne réseaux mobiles
+I1313,"488605",Hydraulicien industriel / Hydraulicienne industrielle
+I1314,"488747",Monteur installateur / Monteuse installatrice d'équipements connectés
+I1315,"488869",Monteur raccordeur / Monteuse raccordeuse fibre optique
+I1316,"488883","Technicien / Technicienne de maintenance Chauffage, Ventilation et Climatisation - CVC"
+I1317,"488900",Technicien / Technicienne de maintenance fibre optique
+I1318,"488911",Instrumentiste Industriel / Industrielle
+I1319,"489191",Technicien / Technicienne de maintenance réseaux mobiles
+I1320,"489206",Technicien / Technicienne de maintenance d'équipements connectés
+I1321,"509367",Technicien / Technicienne de maintenance d'éoliennes
+I1322,"512362",Technicien / Technicienne de maintenance des automates bancaires
+I1323,"509403",Technicien / Technicienne de maintenance ferroviaire
+I1324,"509409",Technicien / Technicienne d'installation d'équipements industriels
+I1325,"509537",Technicien-cuisiniste / Technicienne-cuisiniste en cuisines professionnelles
+I1326,"510453",Responsable d'équipe maintenance
+I1327,"509662",Technicien / Technicienne de maintenance en matériel biomédical
+I1328,"509702",Conseiller / Conseillère en hydraulique agricole
+I1329,"509704",Technicien / Technicienne de maintenance en audio-vidéo professionnelle
+I1330,"510403",Technicien / Technicienne d'installation de centrales téléphoniques
+I1331,"509914",Nivoculteur / Nivocultrice
+I1332,"509916",Chef / Cheffe d'atelier de maintenance industrielle
+I1333,"509918",Chef / Cheffe d'équipe d'installation industrielle
+I1334,"510142",Electronicien / Electronicienne de maintenance aéronautique
+I1335,"510212",Electromécanicien / Electromécanicienne d'équipements industriels
+I1401,"320",Technicien / Technicienne de maintenance en informatique
+I1402,"321",Technicien / Technicienne de maintenance en appareils électroménagers
+I1403,"488349",Technicien / Technicienne Datacenter
+I1404,"489033",Conseiller / Conseillère support technique informatique
+I1405,"489195",Administrateur / Administratrice bureautique
+I1406,"509360",Superviseur / Superviseuse hot line en informatique
+I1407,"509771",Réparateur / Réparatrice en produits de télécommunication et multimédia
+I1408,"509810",Technicien-réparateur / Technicienne-réparatrice d'appareils photographiques
+I1409,"510037",Agent / Agente de maintenance en bureautique
+I1410,"510406",Responsable Service Après-Vente -SAV- en électroménager
+I1501,"322",Cordiste
+I1502,"323",Scaphandrier / Scaphandrière
+I1503,"324",Technicien / Technicienne en risques technologiques
+I1504,"488273",Décontaminateur / Décontamineuse nucléaire et radiologique
+I1505,"488281",Technicien / Technicienne déchet nucléaire
+I1506,"488770",Chef / Cheffe d'équipe cordiste
+I1507,"489013",Opérateur / Opératrice démantèlement nucléaire
+I1508,"509651",Désamianteur / Désamianteuse
+I1601,"325",Préparateur / Préparatrice de bateau
+I1602,"326",Mécanicien / Mécanicienne avion
+I1603,"327",Mécanicien-réparateur / Mécanicienne-réparatrice en matériels agricoles
+I1604,"328",Mécanicien / Mécanicienne automobile
+I1605,"329",Mécanicien / Mécanicienne en mécanique marine ou navale
+I1606,"330",Carrossier-peintre / Carrossière-peintre
+I1607,"331",Mécanicien / Mécanicienne motocycles
+I1608,"488607",Démonteur / Démonteuse de véhicules hors d'usage
+I1609,"489208",Peintre automobile
+I1610,"488613",Responsable atelier carrosserie
+I1611,"489079",Préparateur / Préparatrice de véhicules automobiles
+I1612,"489045",Technicien expert / Technicienne experte après-vente automobile
+I1613,"488731",Mécanicien / Mécanicienne des véhicules des transports routiers
+I1614,"488736",Préparateur / Préparatrice en peinture automobile
+I1615,"488742",Dépanneur-remorqueur / Dépanneuse-remorqueuse de véhicules
+I1616,"489022",Mécanicien / Mécanicienne d'engins de chantier et de travaux publics
+I1617,"488791",Contrôleur / Contrôleuse technique de véhicules
+I1618,"488866",Mécanicien / Mécanicienne en matériels motorisés de parcs et jardins
+I1619,"488870",Mécanicien / Mécanicienne cycles
+I1620,"488889",Mécanicien-réparateur / Mécanicienne-réparatrice d'engins de levage et de manutention
+I1621,"509349",Tôlier / Tôlière en carrosserie automobile
+I1622,"509371",Technicien expert / Technicienne experte après-vente de véhicules de transport routier
+I1623,"509404",Conseiller / Conseillère client après-vente des véhicules
+I1624,"510155",Mécanicien réparateur / Mécanicienne réparatrice de véhicules anciens et historiques
+I1625,"510312",Débosseleur / Débosseleuse
+I1626,"510422",Préparateur / Préparatrice en tôlerie automobile
+I1627,"510586",Technicien expert / Technicienne experte après vente motocycles
+I1628,"510471",Conseiller / Conseillère technique cycles
+I1629,"510466",Technicien / Technicienne de réparation et pose de vitrage des véhicules
+J1101,"332",Médecin du travail et de prévention
+J1102,"333",Médecin généraliste
+J1103,"334",Dentiste
+J1104,"335",Homme sage-femme / Sage-femme
+J1105,"404041",Médecin coordonnateur
+J1106,"488298",Responsable médical / Responsable médicale en région (RMR-MSL) en industrie pharmaceutique
+J1107,"488726",Médecin scolaire
+J1108,"488764",Médecin régulateur
+J1109,"488880",Médecin de la Protection Maternelle et Infantile -PMI-
+J1110,"488916",Médecin légiste
+J1111,"489214",Gynécologue
+J1112,"509388",Oncologue
+J1113,"509405",Dermatologue
+J1114,"509411",Rhumatologue
+J1115,"509412",Pédiatre
+J1116,"509498",Gériatre
+J1117,"509506",Hématologue
+J1118,"509524",Radiologue
+J1119,"509544",Chirurgien / Chirurgienne
+J1120,"509560",Médecin phlébologue
+J1121,"509562",Gastro-entérologue
+J1122,"509638",Chirurgien plasticien / Chirurgienne plasticienne
+J1123,"509643",Médecin des armées
+J1124,"510286",Médecin Anesthésiste Réanimateur / Réanimatrice (MAR)
+J1125,"509674",Endocrinologue
+J1126,"509770",Médecin du sport
+J1127,"510162",Médecin urgentiste
+J1128,"509785",Pneumologue
+J1129,"509807",Allergologue
+J1130,"509812",Oto-rhino-laryngologiste (ORL)
+J1131,"509949",Psychiatre
+J1132,"509887",Neurologue
+J1133,"509912",Stomatologue
+J1134,"509927",Ophtalmologue
+J1135,"509942",Urologue
+J1201,"336",Biologiste médical / Biologiste médicale
+J1202,"337",Pharmacien / Pharmacienne
+J1203,"488594",Directeur / Directrice de laboratoire d'analyses vétérinaires
+J1204,"488743",Directeur / Directrice de laboratoire d'analyses de biologie médicale
+J1301,"338",Agent / Agente de service hospitalier (ASH)
+J1302,"339",Technicien / Technicienne de laboratoires d'analyses médicales
+J1303,"340",Assistant / Assistante médico-technique
+J1304,"341",Auxiliaire de puériculture
+J1305,"342",Ambulancier / Ambulancière
+J1306,"343",Manipulateur / Manipulatrice d'électroradiologie médicale
+J1307,"344",Préparateur / Préparatrice en pharmacie
+J1308,"404042",Brancardier / Brancardière
+J1309,"404043",Agent / Agente de stérilisation de service hospitalier
+J1310,"509513",Auxiliaire ambulancier / Auxiliaire ambulancière
+J1311,"509555",Transporteur / Transporteuse de produits de santé
+J1312,"510261",Assistant / Assistante dentaire
+J1401,"345",Audioprothésiste
+J1402,"346",Diététicien / Diététicienne
+J1403,"347",Ergothérapeute
+J1404,"348",Kinésithérapeute
+J1405,"349",Opticien / Opticienne
+J1406,"350",Orthophoniste
+J1407,"351",Orthoptiste
+J1408,"352",Ostéopathe
+J1409,"353",Pédicure-podologue
+J1410,"354",Prothésiste dentaire
+J1411,"355",Orthoprothésiste
+J1412,"356",Psychomotricien / Psychomotricienne
+J1413,"488767",Physiothérapeute
+J1414,"512364",Coordinateur / Coordinatrice en activité physique adaptée
+J1415,"512363",Enseignant / Enseignante en activité physique adaptée (EAPA)
+J1501,"357",Aide-soignant / Aide-soignante
+J1502,"358",Cadre de santé d'unité de soins ou de service paramédical
+J1503,"359",Infirmier / Infirmière anesthésiste (IADE)
+J1504,"360",Infirmier / Infirmière de bloc opératoire (IBODE)
+J1505,"361",Infirmier / Infirmière de prévention
+J1506,"362",Infirmier / Infirmière en soins généraux (IDE)
+J1507,"363",Puériculteur / Puéricultrice
+J1508,"488289",Infirmier / Infirmière en Pratique Avancée (IPA)
+J1509,"488350",Responsable de secteur coordinateur / Responsable de secteur coordinatrice
+J1510,"488567",Infirmier coordinateur / Infirmière coordinatrice (IDEC)
+J1511,"488872",Infirmier / Infirmière scolaire
+J1512,"489197",Infirmier / Infirmière de santé au travail
+K1101,"364",Médiateur familial / Médiatrice familiale
+K1102,"365",Mandataire judiciaire à la protection des majeurs (MJPM)
+K1103,"366",Conseiller / Conseillère en développement personnel
+K1104,"367",Psychologue
+K1105,"489075",Art thérapeute
+K1106,"510399",Sophrologue
+K1107,"509558",Conseiller / Conseillère d’orientation psychologue
+K1108,"509926",Intervenant / Intervenante en médecine non conventionnelle
+K1201,"368",Assistant social / Assistante sociale
+K1202,"369",Educateur / Educatrice de jeunes enfants
+K1203,"370",Educateur technique spécialisé / Educatrice technique spécialisée
+K1204,"371",Médiateur social / Médiatrice sociale
+K1205,"372",Agent / Agente d'accueil social
+K1206,"373",Animateur coordinateur socioculturel / Animatrice coordinatrice socioculturelle
+K1207,"374",Educateur spécialisé / Educatrice spécialisée
+K1208,"488325",Moniteur éducateur / Monitrice éducatrice
+K1209,"488587",Coordonnateur / Coordonnatrice de projet socioéducatif
+K1210,"488783",Educateur / Educatrice de la protection judiciaire de la jeunesse
+K1211,"489059",Conseiller / Conseillère d'Insertion et de Probation -CIP-
+K1212,"489963",Ministre du culte
+K1213,"509376",Médiateur culturel / Médiatrice culturelle
+K1214,"510400",Conseiller / Conseillère en génétique
+K1215,"509410",Moniteur / Monitrice d’atelier en milieu de travail protégé
+K1216,"509415",Responsable de structure multi accueil petite enfance
+K1217,"509503",Animateur socioéducatif / Animatrice socioéducative
+K1218,"509687",Responsable de maison de quartier
+K1219,"509696",Directeur / Directrice de centre socioculturel
+K1220,"509756",Médiateur / Médiatrice en santé
+K1221,"509896",Ecoutant social / Ecoutante sociale
+K1222,"509911",Coordinateur / Coordinatrice d'équipes de médiation
+K1223,"510206",Technicien / Technicienne de l'administration pénitentiaire
+K1224,"510181",Encadrant / Encadrante technique d'insertion socioprofessionnelle
+K1225,"510032",Conseiller / Conseillère en économie sociale et familiale (CESF)
+K1226,"510058",Chargé / Chargée de médiation interculturelle
+K1227,"510064",Directeur / Directrice technique de l'administration pénitentiaire
+K1301,"375",Educateur / Educatrice en locomotion
+K1302,"376",Assistant / Assistante de vie dépendance
+K1303,"377",Garde d'enfant
+K1304,"378",Employé familial / Employée familiale
+K1305,"28964",Technicien / Technicienne d'Intervention Sociale et Familiale (TISF)
+K1306,"404044",Accompagnant Educatif et Social (AES) / Accompagnante Educative et Sociale (AES)
+K1307,"404045",Animateur / Animatrice petite enfance
+K1308,"404046",Agent territorial spécialisé / Agente territoriale spécialisée des écoles maternelles (ATSEM)
+K1309,"404543",Assistant familial / Assistante familiale
+K1310,"404544",Assistant maternel / Assistante maternelle
+K1311,"488323",Assistant / Assistante de vie aux familles
+K1312,"488338",Accueillant familial / Accueillante familiale thérapeutique auprès d'adultes
+K1313,"489223",Employé / Employée au pair
+K1314,"509757",Auxiliaire de vie sociale auprès d'enfants
+K1401,"379",Cadre Dirigeant / Dirigeante d'administration centrale
+K1402,"380",Médecin conseil
+K1403,"381","Directeur / Directrice de structure de santé, sociale ou pénitentiaire"
+K1404,"382",Chargé / Chargée de mission développement territorial
+K1405,"383",Préfet / Préfète
+K1406,"404545",Secrétaire de mairie
+K1407,"488293",Directeur / Directrice d'établissement médicosocial
+K1408,"488294",Responsable de secteur d'aide à domicile
+K1409,"488311",Responsable de structure sanitaire et sociale
+K1410,"489074",Directeur régional / Directrice régionale des services pénitentiaires
+K1411,"509782",Médecin conseil en santé publique
+K1412,"510287",Chargé / Chargée de mission aux relations internationales
+K1413,"510283",Directeur / Directrice d'établissement à caractère social
+K1414,"509923",Chargé / Chargée de mission santé publique
+K1415,"509933",Directeur / Directrice d'établissement privé de santé
+K1416,"509935",Directeur / Directrice des services pénitentiaires d'insertion et de probation (DSPIP)
+K1417,"510036",Responsable des affaires générales
+K1418,"510045",Ambassadeur / Ambassadrice
+K1419,"510148",Responsable du service des assemblées
+K1420,"510156",Directeur / Directrice d'établissement pénitentiaire
+K1421,"510160",Directeur / Directrice de centre hospitalier
+K1422,"510263",Directeur général / Directrice générale d'établissement public
+K1501,"384",Agent / Agente d'administration principal(e) des douanes
+K1502,"385",Inspecteur / Inspectrice du travail
+K1503,"386",Contrôleur / Contrôleuse des impôts
+K1504,"387",Percepteur / Perceptrice des impôts et du Trésor Public
+K1505,"388",Inspecteur / Inspectrice des douanes
+K1506,"509359","Inspecteur / Inspectrice de la concurrence, de la consommation et de la répression des fraudes"
+K1507,"509377",Chef / Cheffe de centre des impôts
+K1508,"509493",Agent / Agente de conservation des hypothèques
+K1509,"510301","Adjoint / Adjointe de contrôle de la concurrence, de la consommation et de la répression des fraudes"
+K1510,"509669",Contrôleur / Contrôleuse du Trésor public
+K1511,"509890",Inspecteur / Inspectrice des impôts
+K1512,"509772",Chef / Cheffe de poste du Trésor public
+K1513,"509784",Chargé / Chargée de l'exécution de la dépense publique
+K1601,"389",Documentaliste
+K1602,"390",Conservateur / Conservatrice du patrimoine
+K1603,"488327",Bibliothécaire
+K1604,"488610",Directeur / Directrice d'établissement culturel
+K1605,"488727",Commissaire d'exposition
+K1606,"488758",Responsable de la conservation préventive
+K1607,"489080",Conservateur / Conservatrice des antiquités et objets d'art
+K1701,"391",Combattant / Combattante en milieu terrestre
+K1702,"392",Responsable de sécurité civile et de secours
+K1703,"393",Responsable Opérationnel / Opérationnelle de la défense
+K1704,"394",Officier / Officière de police
+K1705,"395",Secouriste
+K1706,"396",Agent / Agente de la force publique
+K1707,"397",Policier municipal / Policière municipale
+K1708,"488295",Gardien / Gardienne de la paix
+K1709,"488320",Commissaire de police
+K1710,"488345",Officier de police judiciaire / Officière de police judiciaire
+K1711,"488593",Surveillant pénitentiaire / Surveillante pénitentiaire
+K1712,"488708",Conducteur / Conductrice de véhicule de combat
+K1713,"488712",Tireur / Tireuse d'engin blindé
+K1714,"488892",Missilier / Missilière artillerie
+K1715,"488906",Officier / Officière des forces armées
+K1716,"488907",Chef / Cheffe de service pénitentiaire
+K1717,"489034",Technicien électronicien / Technicienne électronicienne des armées
+K1718,"489053",Mécanicien / Mécanicienne de systèmes d'armes
+K1719,"489167",Chef / Cheffe de police municipale
+K1720,"489186",Gardien / Gardienne de compagnie républicaine de sécurité
+K1721,"489212",Technicien / Technicienne en investigation criminelle
+K1722,"489180",Conducteur / Conductrice d'autorité de l'armée
+K1723,"488934",Conducteur / Conductrice Véhicule Léger de l'armée
+K1724,"488725",Mécanicien / Mécanicienne d'engins blindés
+K1725,"510608",Responsable des opérations militaires en milieu maritime
+K1726,"510040",Pisteur / Pisteuse secouriste
+K1727,"510600",Chargé / Chargée du guidage d’aéronef militaire
+K1728,"510428",Régulateur / Régulatrice de secours en montagne
+K1729,"510470",Opérateur / Opératrice en pyrotechnie militaire
+K1730,"510473","Spécialiste de la protection des forces, installations ou matériels sensibles de l’Etat"
+K1731,"510475",Responsable des opérations militaires en milieu aéroterrestre
+K1732,"510599",Spécialiste des systèmes de communication opérationnels
+K1733,"510584",Combattant / Combattante des forces spéciales militaires
+K1734,"510587",Spécialiste du soutien armement nucléaire
+K1735,"510588","Architecte système de force, d’arme ou équipement militaire"
+K1736,"510597",Spécialiste de l’aide au déploiement des forces combattantes
+K1737,"510591",Combattant / Combattante en milieu maritime
+K1738,"510596",Spécialiste du soutien ou de la formation propulsion nucléaire
+K1801,"398",Conseiller / Conseillère en insertion professionnelle
+K1802,"399",Chargé / Chargée de développement économique et local
+K1803,"509511",Animateur / Animatrice de développement régional
+K1804,"509552",Conseiller / Conseillère en création d'entreprise
+K1805,"509661",Chargé / Chargée de développement social
+K1806,"509672",Chargé / Chargée de développement social et urbain
+K1807,"509794",Urbaniste
+K1808,"509882",Chargé / Chargée de développement culturel
+K1809,"510031",Responsable de développement territorial
+K1810,"510049",Agent / Agente de développement d'habitat social
+K1811,"510071",Chargé / Chargée de projet en aménagement du territoire
+K1812,"510147",Chargé / Chargée de projet emploi
+K1813,"510605",Chargé / Chargée de mission eaux pluviales
+K1814,"510304",Chargé / Chargée d'emploi en entreprise de travail temporaire
+K1815,"510311",Chargé / Chargée de mission emploi formation
+K1901,"400",Notaire
+K1902,"401",Clerc de notaire
+K1903,"402",Juriste
+K1904,"403",Juge
+K1905,"488574",Huissier / Huissière de justice
+K1906,"488602",Délégué / Déléguée à la protection des données - Data Protection Officer
+K1907,"488737",Commissaire-priseur / Commissaire-priseure
+K1908,"489169",Responsable de service contentieux et recouvrement
+K1909,"510190",Greffier / Greffière
+K1910,"510013",Commissaire à la Cour des comptes
+K2101,"404",Conseiller consultant / Conseillère consultante en formation
+K2102,"405",Coordinateur / Coordinatrice pédagogique
+K2103,"406",Chef / Cheffe d'établissement d'enseignement
+K2104,"407",Surveillant / Surveillante en milieu scolaire
+K2105,"408",Professeur / Professeure de musique
+K2106,"409",Professeur / Professeure des écoles
+K2107,"410",Professeur / Professeure de collège et de lycée
+K2108,"411",Professeur / Professeure des universités
+K2109,"412",Professeur / Professeure d'enseignement technologique
+K2110,"413",Enseignant / Enseignante de la conduite et de la sécurité routière
+K2111,"414",Formateur / Formatrice
+K2112,"415",Conseiller / Conseillère d'orientation
+K2113,"404546",Accompagnant / Accompagnante des élèves en situation de handicap (AESH)
+K2114,"488317",Formateur / Formatrice qualité
+K2115,"488886",Conseiller principal / Conseillère principale d'éducation
+K2116,"488915",Responsable d'unité d'enseignement de la conduite de véhicule
+K2117,"488923",Inspecteur / Inspectrice de l'Education Nationale -IEN-
+K2118,"489031",Directeur / Directrice d'école primaire
+K2119,"509361",Consultant / Consultante en ingénierie pédagogique
+K2120,"509370",Directeur / Directrice d'établissement d'enseignement supérieur
+K2121,"509515",Directeur / Directrice de conservatoire musique et danse
+K2122,"509529",Professeur / Professeure à domicile
+K2123,"509533",Responsable programme enseignement supérieur
+K2124,"509534",Formateur / Formatrice conduite d'engins motorisés et de levage
+K2125,"509546",Archéologue
+K2126,"509551",Conseiller / Conseillère en validation des acquis de l'expérience
+K2127,"509559",Professeur / Professeure d'enseignement général pour déficients sensoriels
+K2128,"509671",Formateur / Formatrice aux métiers de l'éducation et de la sécurité routière
+K2129,"509673",Professeur / Professeure en soutien scolaire
+K2130,"509706",Professeur / Professeure de Français Langue Etrangère (FLE)
+K2131,"509783",Lecteur / Lectrice de langues dans l'enseignement supérieur
+K2132,"509895",Responsable ingénierie de la formation professionnelle
+K2133,"509902",Sociologue
+K2134,"509932",Démographe
+K2135,"509940",Ethnologue
+K2136,"510418",Professeur territorial / Professeure territoriale d'enseignement artistique
+K2137,"510044",Assistant / Assistante pédagogique en milieu scolaire
+K2138,"510061",Animateur / Animatrice de stages permis à points
+K2139,"510063",Chargé / Chargée de bilan professionnel
+K2140,"510074",Historien / Historienne
+K2141,"510141",Formateur / Formatrice conduite d'engins de travaux publics
+K2142,"510151",Animateur-coordinateur / Animatrice-coordinatrice de formation
+K2143,"510407",Anthropologue
+K2144,"510184",Directeur / Directrice d'école paramédicale
+K2145,"510398",Formateur / Formatrice de formateurs
+K2146,"510193",Responsable d'internat
+K2147,"510310",Chef / Cheffe de travaux dans l'enseignement technique
+K2148,"510295",Directeur / Directrice pédagogique
+K2201,"416",Blanchisseur industriel / Blanchisseuse industrielle
+K2202,"417",Laveur / Laveuse de vitres
+K2203,"418",Responsable de site nettoyage de locaux
+K2204,"419",Agent / Agente de nettoyage industriel
+K2205,"488581",Agent / Agente de propreté de locaux
+K2301,"420",Agent / Agente d'exploitation des réseaux d'assainissement
+K2302,"421",Responsable de collecte de déchets
+K2303,"422",Ripeur / Ripeuse
+K2304,"423",Agent / Agente de tri des déchets
+K2305,"424",Agent / Agente de désinsectisation
+K2306,"425",Responsable de site éco-industriel
+K2307,"488790",Agent / Agente de propreté urbaine
+K2308,"489068",Opérateur / Opératrice de tri en récupération et revalorisation
+K2309,"489069",Technicien / Technicienne réutilisation recyclage
+K2310,"489221",Ambassadeur / Ambassadrice du tri
+K2311,"509354",Responsable des déchets
+K2312,"510266",Ingénieur / Ingénieure responsable propreté nettoiement
+K2313,"510264",Technicien chargé / Technicienne chargée de la police des eaux
+K2314,"510200",Technicien / Technicienne de maintenance de systèmes d'irrigation
+K2315,"509398",Inspecteur / Inspectrice de salubrité publique
+K2316,"510065",Responsable d'usine de production d'eau potable
+K2317,"509901",Technicien / Technicienne d'exploitation d'eau potable
+K2318,"509889",Agent / Agente de déchetterie
+K2319,"509540",Technicien / Technicienne hygiéniste
+K2320,"509778",Chargé / Chargée du traitement des déchets
+K2321,"509701",Egoutier / Egoutière
+K2322,"509680",Technicien / Technicienne en traitement des eaux
+K2323,"509682",Responsable propreté urbaine
+K2401,"426",Chercheur / Chercheuse en sciences humaines et sociales
+K2402,"427",Ingénieur / Ingénieure de recherche scientifique
+K2403,"404547",Biostatisticien / Biostatisticienne
+K2404,"488272",Chargé / Chargée de recherche en industrie pharmaceutique
+K2405,"488279",Attaché / Attachée de recherche clinique en milieu hospitalier
+K2406,"488570",Directeur / Directrice de recherche en industrie pharmaceutique
+K2407,"488592",Climatologue
+K2408,"488864",Mathématicien / Mathématicienne
+K2409,"488918",Astronome
+K2410,"489170",Astrophysicien / Astrophysicienne
+K2411,"509819",Musicologue
+K2501,"428",Gardien / Gardienne d'immeuble
+K2502,"429",Responsable sécurité de site
+K2503,"430",Agent / Agente de prévention et de sécurité
+K2504,"404548",Agent / Agente de sécurité événementielle
+K2505,"488622",Enquêteur privé / Enquêtrice privée
+K2506,"488730",Convoyeur / Convoyeuse de fonds
+K2507,"509543",Agent / Agente d'exploitation et de sûreté aéroportuaire
+K2508,"509689",Agent / Agente de protection rapprochée
+K2509,"509690",Opérateur / Opératrice en télésurveillance
+K2510,"510292",Agent / Agente cynophile de sécurité
+K2601,"431",Porteur / Porteuse funéraire
+K2602,"432",Conseiller / Conseillère funéraire
+K2603,"433",Thanatopracteur / Thanatopractrice
+K2604,"509390",Agent / Agente de crématorium
+K2605,"510294",Maître / Maîtresse de cérémonie funéraire
+L1101,"435",DJ
+L1102,"436",Mannequin
+L1103,"437",Animateur / Animatrice d'antenne
+L1104,"510454",Animateur / Animatrice événementiel
+L1201,"438",Danseur / Danseuse
+L1202,"439",Musicien / Musicienne
+L1203,"440",Comédien / Comédienne
+L1204,"441",Artiste de cirque
+L1205,"488723",Artiste-interprète
+L1206,"488757",Cavalier / Cavalière de spectacle
+L1207,"488789",Cascadeur / Cascadeuse
+L1208,"489202",Mascotte-personnage
+L1209,"509645",Performeur / Performeuse de cabaret
+L1210,"509934",Orchestrateur / Orchestratrice
+L1211,"510402",Chorégraphe
+L1301,"442",Metteur / Metteuse en scène
+L1302,"443",Producteur / Productrice de film
+L1303,"444",Agent / Agente de talent
+L1304,"445",Premier assistant réalisateur / Première assistante réalisatrice
+L1305,"489569",Directeur / Directrice artistique spectacle
+L1306,"509920",Réalisateur / Réalisatrice audiovisuel
+L1307,"510394",Assistant / Assistante mise en scène
+L1308,"510423",Directeur / Directrice de production audiovisuelle et cinéma
+L1309,"513849",Coordinateur / Coordinatrice d'intimité
+L1401,"446",Sportif professionnel / Sportive professionnelle
+L1402,"488306",Arbitre professionnel / Professionnelle de discipline sportive
+L1403,"509395",Cavalier / Cavalière d'entraînement
+L1501,"447",Maquilleur / Maquilleuse spectacle
+L1502,"448",Costumier / Costumière
+L1503,"449",Accessoiriste
+L1504,"450",Eclairagiste
+L1505,"451",Opérateur / Opératrice de prise de vues
+L1506,"452",Machiniste spectacle
+L1507,"453",Monteur / Monteuse vidéo
+L1508,"454",Régisseur / Régisseuse du son
+L1509,"455",Régisseur / Régisseuse de production
+L1510,"39022",Animateur / Animatrice 3D - films d'animation
+L1511,"488715",Technicien / Technicienne spectacle en site de divertissement
+L1512,"489065",Régisseur / Régisseuse de spectacles
+L1513,"489172",Scénographe
+L1514,"510478",Chef opérateur / Cheffe opératrice image
+L1515,"509649",Technicien / Technicienne plateau
+L1516,"510281",Coiffeur / Coiffeuse spectacle
+L1517,"509678",Chef coiffeur / Cheffe coiffeuse spectacle
+L1518,"509776",Chef habilleur / Cheffe habilleuse
+L1519,"510259",Technicien / Technicienne vidéo
+L1520,"509826",Concepteur / Conceptrice de costumes
+L1521,"510191",Chef / Cheffe accessoiriste
+L1522,"510046",Opérateur / Opératrice d'effets visuels physiques audiovisuel et cinéma
+L1523,"510144",Artificier / Artificière spectacle
+L1524,"509676",Chef décorateur / Cheffe décoratrice spectacle
+L1525,"510149",Chef / Cheffe machiniste spectacle
+L1526,"510175",Régisseur / Régisseuse de scène
+L1527,"510180",Chef constructeur / Cheffe constructrice en décors
+M1101,"456",Acheteur / Acheteuse
+M1102,"457",Responsable des achats
+M1201,"458",Analyste financier / Analyste financière
+M1202,"459",Auditeur comptable et financier / Auditrice comptable et financière
+M1203,"460",Comptable
+M1204,"461",Contrôleur / Contrôleuse de gestion
+M1205,"462",Directeur / Directrice des services administratifs et financiers
+M1206,"463",Responsable comptabilité
+M1207,"464",Trésorier / Trésorière
+M1208,"488629",Responsable contrôle de gestion
+M1209,"488910",Conseiller / Conseillère en gestion
+M1210,"489196",Commissaire aux comptes
+M1211,"510639",Expert-comptable / Experte-comptable
+M1212,"510455",Gestionnaire de lits
+M1213,"509521",Assistant / Assistante comptable
+M1214,"509538",Négociateur / Négociatrice en devises
+M1215,"509553",Contrôleur comptable et financier / Contrôleuse comptable et financière
+M1216,"510433",Secrétaire général / Secrétaire générale
+M1217,"510284","Intendant / Intendante d'établissement scolaire (lycée, collège...)"
+M1218,"509791",Directeur / Directrice de l'environnement de travail
+M1219,"509798",Conseiller / Conseillère en fusion et acquisition
+M1220,"509822",Credit manager
+M1221,"509824",Responsable financement de projet
+M1222,"509880",Assistant / Assistante de contrôle budgétaire
+M1223,"509898",Chef / Cheffe des services administratifs et financiers
+M1224,"510034",Economiste financier / Economiste financière
+M1225,"510267",Aide-comptable
+M1301,"465",Dirigeant / Dirigeante d'entreprise privée
+M1302,"466",Responsable de Petite ou Moyenne Entreprise -PME-
+M1303,"509930",Directeur / Directrice de filiale
+M1304,"510248",Directeur / Directrice d'unité de services au public
+M1305,"510594",Fablab Manager
+M1401,"467",Enquêteur / Enquêtrice sondage
+M1402,"468",Responsable en organisation en entreprise
+M1403,"469",Chargé / Chargée d'études socio-économiques
+M1404,"470",Responsable d'enquêtes terrain
+M1405,"404047",Data scientist
+M1406,"488287",Responsable RSE - Responsabilité Sociétale de l'Entreprise
+M1407,"488300",Responsable de la veille scientifique et technique en industrie pharmaceutique
+M1408,"488337",Responsable des études pharmaco-économiques en industrie pharmaceutique
+M1409,"488639",Ingénieur / Ingénieure économiste en entreprise
+M1410,"488729",Responsable Green IT
+M1411,"488756",Consultant / Consultante en énergie renouvelable
+M1412,"488778",Ergonome
+M1413,"488936",Chargé / Chargée de mission RSE - Responsabilité Sociétale de l'Entreprise
+M1414,"489213",Ingénieur statisticien / Ingénieure statisticienne
+M1415,"509391",Auditeur social / Auditrice sociale
+M1416,"509399",Animateur / Animatrice qualité services
+M1417,"509408",Intervenant / Intervenante en Prévention des Risques Professionnels - IPRP
+M1418,"510308",Recruteur / Recruteuse de donateurs
+M1419,"509531",Data analyst
+M1420,"509536",Responsable en intelligence économique
+M1421,"509569",Panéliste
+M1422,"509641",Directeur / Directrice d'études socio-économiques
+M1423,"510245",Chief Data Officer
+M1424,"509806",Consultant / Consultante en intelligence économique
+M1425,"509903",Agent recenseur / Agente recenseuse
+M1426,"510019",Chief digital officer - Responsable de la transformation digitale
+M1427,"510041",Animateur / Animatrice de réseau d'entreprises
+M1428,"510195",Directeur / Directrice qualité services
+M1429,"510146",Consultant / Consultante en management
+M1430,"510157",Chargé / Chargée d'études commerciales
+M1501,"471",Assistant / Assistante Ressources Humaines (RH)
+M1502,"472",Chargé / Chargée de recrutement
+M1503,"473",Directeur / Directrice des Ressources Humaines (DRH)
+M1504,"488280",Responsable formation professionnelle en entreprise
+M1505,"488324",Chargé / Chargée de formation en entreprise
+M1506,"488608",Manager de proximité
+M1507,"488773",Gestionnaire paie
+M1508,"509375",Conseiller / Conseillère en gestion de carrière
+M1509,"510401",Responsable paie et administration du personnel
+M1510,"509677",Chargé / Chargée de mission RH diversité handicap
+M1511,"509763",Responsable Qualité de Vie au Travail
+M1512,"510197",Directeur / Directrice des relations sociales
+M1601,"474",Chargé / Chargée d'accueil
+M1602,"475",Agent administratif / Agente administrative
+M1603,"476",Facteur / Factrice
+M1604,"477",Assistant / Assistante de direction
+M1605,"478",Secrétaire technique
+M1606,"479",Opérateur / Opératrice de saisie
+M1607,"480",Secrétaire
+M1608,"481",Secrétaire comptable
+M1609,"482",Secrétaire médical / Secrétaire médicale
+M1610,"488304",Intendant / Intendante du sport
+M1611,"488746",Secrétaire Facturier / Facturière
+M1612,"488787",Assistant / Assistante de service juridique
+M1613,"488885",Télésecrétaire
+M1614,"488927",Standardiste
+M1615,"489012",Distributeur / Distributrice de prospectus et imprimés
+M1616,"489162",Auxiliaire de gestion des écoles de conduite
+M1617,"489184",Médecin responsable de la Documentation et de l'Information Médicale (Médecin responsable -DIM-)
+M1618,"509416",Agent / Agente de liaison courrier
+M1619,"509799",Approvisionneur / Approvisionneuse points de distribution
+M1620,"510059",Superviseur / Superviseuse de distributeurs d'imprimés
+M1621,"510208",Assistant / Assistante de gestion administrative
+M1701,"483",Responsable de l'administration des ventes
+M1702,"484",Planneur / Planneuse stratégique
+M1703,"485",Chef / Cheffe de produit
+M1704,"486",Responsable relation client (CRM)
+M1705,"487",Responsable marketing
+M1706,"488",Chef / Cheffe de promotion des ventes
+M1707,"489",Responsable Commercial / Commerciale
+M1708,"488274",Directeur / Directrice de l'accès au marché en industrie pharmaceutique
+M1709,"488275",Chef / Cheffe de gamme en industrie pharmaceutique
+M1710,"488307",Responsable régional / Responsable régionale des relations scientifiques médicales
+M1711,"488310",Directeur / Directrice du marketing
+M1712,"488340",Directeur / Directrice de l'information promotionnelle du médicament en industrie pharmaceutique
+M1713,"488342",Responsable d'associations de patients en industrie pharmaceutique
+M1714,"488569",Chargé / Chargée de l'information promotionnelle du médicament en industrie pharmaceutique
+M1715,"488738",Directeur commercial / Directrice commerciale
+M1716,"488873",Directeur / Directrice marketing digital
+M1717,"510431",Responsable innovation
+M1718,"510434",Chargé / Chargée de marketing digital
+M1719,"512365",Chargé / Chargée des relations avec les influenceurs
+M1801,"490",Administrateur / Administratrice de systèmes d'information (SI)
+M1802,"491",Expert / Experte systèmes et réseaux informatiques
+M1803,"492",Directeur / Directrice des systèmes d'information -DSI-
+M1804,"493",Ingénieur / Ingénieure télécoms
+M1805,"494",Développeur / Développeuse informatique
+M1806,"495",Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information
+M1807,"496",Opérateur / Opératrice télécom aux armées
+M1808,"497",Cartographe
+M1809,"498",Météorologue
+M1810,"499",Technicien / Technicienne d'exploitation informatique
+M1811,"404048",Data engineer
+M1812,"404049",Responsable de la Sécurité des Systèmes d'Information (RSSI)
+M1813,"404050",Intégrateur / Intégratrice logiciels métiers
+M1814,"488329",Scrum Master
+M1815,"488576",Spécialiste test et validation logiciel ou application
+M1816,"488603",Technicien / Technicienne réseaux informatiques et télécoms
+M1817,"488636",Administrateur / Administratrice sécurité informatique
+M1818,"488641",Ingénieur / Ingénieure d'étude informatique
+M1819,"488707",Ingénieur / Ingénieure sécurité informatique
+M1820,"488713",Expert / Experte méthodes et qualité informatique
+M1821,"488716",Analyste d'application informatique
+M1822,"488717",Ingénieur / Ingénieure systèmes et réseaux informatiques
+M1823,"488721",Consultant / Consultante avant-vente
+M1824,"488748",Développeur / Développeuse décisionnel - Business Intelligence
+M1825,"488750",Coordinateur / Coordinatrice de production web
+M1826,"488753",Ingénieur / Ingénieure supervision IT Datacenter
+M1827,"488754",Ingénieur / Ingénieure DevOps
+M1828,"488768",Chef de projet / Cheffe de projet (Project Management Officer)
+M1829,"488772",Ingénieur / Ingénieure systèmes et réseaux des territoires connectés
+M1830,"488785",Administrateur / Administratrice réseaux - télécoms
+M1831,"488786",Développeur / Développeuse - jeux vidéo
+M1832,"488865",Homologateur / Homologatrice fonctionnel de logiciel
+M1833,"488877",Ingénieur / Ingénieure sécurité web
+M1834,"488888",Administrateur / Administratrice de site internet
+M1835,"488890",Architecte systèmes et réseaux des territoires connectés
+M1836,"488894",Ingénieur concepteur / Ingénieure conceptrice informatique
+M1837,"488904",Développeur / Développeuse multimédia
+M1838,"488905",Urbaniste des systèmes d'information
+M1839,"488909",Architecte systèmes et réseaux
+M1840,"488917",Directeur / Directrice de projets des territoires connectés
+M1841,"488922",Ingénieur informaticien / Ingénieure informaticienne
+M1842,"488933",Qualiticien / Qualiticienne logiciel en informatique
+M1843,"489009",Administrateur / Administratrice de serveurs
+M1844,"489017",Analyste en cybersécurité
+M1845,"489023",Architecte IoT - Internet des Objets
+M1846,"489026",Ingénieur / Ingénieure Cybersécurité Datacenter
+M1847,"489035",Expert / Experte en communication et réseaux
+M1848,"489055",Analyste Concepteur / Conceptrice informatique
+M1849,"489061",Administrateur / Administratrice de messagerie
+M1850,"489066",Architecte multimédias interactifs
+M1851,"489067",Analyste décisionnel - Business Intelligence
+M1852,"489072",Analyste d'étude informatique
+M1853,"489073",Chef / Cheffe de projet étude et développement informatique
+M1854,"489078",Administrateur / Administratrice réseau informatique
+M1855,"489081",Développeur / Développeuse web
+M1856,"489082",Expert / Experte en cybersécurité
+M1857,"489174",Urbaniste Datacenter
+M1858,"489179",Chef / Cheffe de projet TMA - Tierce Maintenance Applicative
+M1859,"489188",Chef / Cheffe de projet maîtrise d'œuvre informatique
+M1860,"489199",Architecte cloud
+M1861,"489209",Développeur / Développeuse logiciel ou d'application
+M1862,"489217",Responsable d'exploitation fibre optique
+M1863,"489218",Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques
+M1864,"510638",Product Owner
+M1865,"509517",Ingénieur / Ingénieure blockchain
+M1866,"509541",Pentesteur / Pentesteuse
+M1867,"509549",Responsable des systèmes d'information (SI)
+M1868,"509550",Architecte base de données
+M1869,"509658",Gestionnaire de parc informatique
+M1870,"509688",Directeur / Directrice de projet en informatique
+M1871,"509700",Gestionnaire d'applications système d'information
+M1872,"509762",Consultant décisionnel / Consultante décisionnelle - Business Intelligence
+M1873,"509919",Spécialiste IA embarquée
+M1874,"509943",Spécialiste support
+M1875,"510033",Coordinateur / Coordinatrice Maitrise d'Ouvrage Système d'Information (MOA SI)
+M1876,"510039",Technicien / Technicienne Cloud
+M1877,"510055",Développeur / Développeuse blockchain
+M1878,"510166",Responsable de la production informatique
+M1879,"510169",Ingénieur / Ingénieure Cloud computing
+M1880,"510247",Spécialiste e-santé
+M1881,"510260",Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA)
+M1882,"510289",Architecte sécurité informatique
+M1883,"510315",Analyste SOC (Security Operations Center)
+M1884,"510317","Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique"
+M1885,"510404",Responsable télécoms
+M1886,"510415",Chef / Cheffe de projet Web
+M1887,"510419",Product builder no code
+M1888,"510430",Spécialiste en modélisation climatique
+M1889,"510440",Ingénieur / Ingénieure en Intelligence Artificielle (IA)
+M1890,"510446",Responsable d'opérations en station météorologique
+M1891,"510447",Ingénieur / Ingénieure prévisionniste météorologue
+M1892,"510450",Ingénieur / Ingénieure en informatique embarquée
+M1893,"510461",Technicien / Technicienne de la météorologie
+M1894,"510465",Gestionnaire de base de données
+N1101,"500",Cariste
+N1102,"501",Déménageur / Déménageuse
+N1103,"502",Préparateur / Préparatrice de commandes
+N1104,"503",Pontier / Pontière
+N1105,"504",Manutentionnaire
+N1106,"488333",Agent / Agente de quai manutentionnaire
+N1107,"488599",Chef / Cheffe d'équipe en déménagement
+N1108,"488735",Conducteur / Conductrice de grue mobile
+N1109,"488769",Eclusier-barragiste / Eclusière-barragiste
+N1110,"488771",Magasinier / Magasinière
+N1111,"488893",Conducteur / Conductrice de pont roulant
+N1112,"488924",Chef cariste / Cheffe cariste
+N1113,"489051",Préparateur / Préparatrice au drive
+N1114,"489077",Conducteur / Conductrice d'engins lourds de manutention
+N1115,"489164",Opérateur / Opératrice logistique en entrepôt
+N1116,"489168",Agent / Agente de quai de messagerie
+N1201,"505",Affréteur / Affréteuse
+N1202,"506",Agent / Agente de transit
+N1203,"488586",Technicien / Technicienne gestion douanière
+N1204,"488601",Coordinateur / Coordinatrice transit en import - export
+N1205,"488741",Responsable de service transit
+N1206,"488863",Courtier / Courtière affrètement maritime
+N1207,"489175",Chef / Cheffe de groupe affrètement
+N1208,"512366",Opérateur / Opératrice de traitement de valeurs
+N1301,"507",Responsable logistique
+N1302,"508",Responsable entrepôt logistique
+N1303,"509",Approvisionneur / Approvisionneuse logistique
+N1304,"488588",Directeur / Directrice logistique
+N1305,"489020",Ingénieur / Ingénieure logistique
+N2101,"510",Personnel Navigant Commercial - PNC -
+N2102,"511",Pilote de ligne
+N2201,"512",Agent / Agente d'Escale Commerciale aéroportuaire -AEC-
+N2202,"513",Contrôleur aérien / Contrôleuse aérienne
+N2203,"514",Agent / Agente de piste
+N2204,"515",Agent / Agente de trafic aérien
+N2205,"516",Chef / Cheffe d'escale
+N2206,"489039",Pilote de drone
+N2207,"489211",Agent / Agente d'accompagnement du transport
+N2208,"510602",Contrôleur / Contrôleuse de la circulation et de la défense aérienne
+N3101,"517",Officier / Officière de port
+N3102,"518",Marin
+N3103,"519",Matelot de la navigation fluviale
+N3104,"509922",Conducteur / Conductrice de navigation fluviale
+N3201,"520",Responsable d'exploitation transport maritime
+N3202,"521",Responsable d'exploitation transport fluvial
+N3203,"522",Ouvrier / Ouvrière de manutention portuaire
+N3204,"489062",Chef / Cheffe d'équipe de manutention portuaire
+N3205,"510185",Assistant / Assistante d'exploitation du transport fluvial
+N4101,"523",Conducteur / Conductrice de poids lourd
+N4102,"524",Conducteur / Conductrice de transport de particuliers
+N4103,"525",Conducteur / Conductrice de bus
+N4104,"526",Coursier / Coursière
+N4105,"527",Conducteur-livreur / Conductrice-livreuse
+N4106,"488577",Commis coursier / Commise coursière en douane
+N4107,"488583",Conducteur livreur / Conductrice livreuse de béton prêt à l'emploi
+N4108,"488591",Conducteur accompagnateur / Conductrice accompagnatrice de personnes à mobilité réduite
+N4109,"488595",Conducteur / Conductrice d'autocar ligne régulière
+N4110,"488604",Releveur / Releveuse de compteurs
+N4111,"488611",Conducteur / Conductrice super poids lourd de l'armée
+N4112,"489201",Chauffeur / Chauffeuse VTC
+N4113,"488626",Conducteur routier international / Conductrice routière internationale
+N4114,"488732",Conducteur livreur avitailleur / Conductrice livreuse avitailleuse en carburant
+N4115,"488739",Conducteur / Conductrice de véhicules Super Lourds
+N4116,"488777",Conducteur / Conductrice de transport routier de marchandises dangereuses
+N4117,"489210",Conducteur / Conductrice d'attelage
+N4118,"488857",Conducteur / Conductrice enlèvement de déchets
+N4119,"488874",Conducteur / Conductrice de tramway
+N4120,"488881",Chauffeur-livreur préparateur / Chauffeuse-livreuse préparatrice de commandes
+N4121,"488882",Aide-livreur / Aide-livreuse
+N4122,"488884",Convoyeur / Convoyeuse de véhicules ou matériels lourds
+N4123,"488931",Conducteur livreur installateur / Conductrice livreuse installatrice
+N4124,"489226",Conducteur / Conductrice de taxi moto
+N4125,"488935",Conducteur / Conductrice de transport routier d'animaux vivants
+N4126,"489224",Conducteur / Conductrice de transport routier en convoi exceptionnel
+N4127,"489032",Conducteur / Conductrice de car tourisme
+N4128,"489043",Conducteur / Conductrice de navette de moins de 9 personnes
+N4129,"489225",Conducteur / Conductrice de corbillard
+N4130,"489057",Conducteur / Conductrice de voiture radar à conduite externalisée
+N4131,"489161",Chauffeur / Chauffeuse de direction
+N4132,"489190",Contrôleur / Contrôleuse de bus
+N4201,"528",Responsable d'agence transport routier de marchandises
+N4202,"529",Responsable d'exploitation transport routier de personnes
+N4203,"530",Agent / Agente d'exploitation en transport routier de marchandises
+N4204,"531",Agent / Agente d'exploitation transport routier de personnes
+N4301,"532",Conducteur / Conductrice de train
+N4302,"533",Contrôleur / Contrôleuse des transports en commun
+N4303,"509380",Conducteur / Conductrice d'engins de manœuvre du réseau ferré
+N4304,"509497",Responsable d'équipe d'agents de conduite du réseau ferré
+N4305,"512370",Conducteur / Conductrice de métro
+N4401,"534",Aiguilleur / Aiguilleure du rail
+N4402,"535",Conducteur / Conductrice de remontées mécaniques
+N4403,"536",Opérateur / Opératrice ferroviaire
